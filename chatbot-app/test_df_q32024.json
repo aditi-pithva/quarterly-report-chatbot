@@ -1,0 +1,948 @@
+{"text":"Revenue - Q3 2024","value":6604.0,"quarter":3,"year":2024,"value_standardized":3.1202518767}
+{"text":"Reported Net Income - Q3 2024","value":1795.0,"quarter":3,"year":2024,"value_standardized":0.5226724643}
+{"text":"Adjusted Net Income (2) - Q3 2024","value":1895.0,"quarter":3,"year":2024,"value_standardized":0.576687424}
+{"text":"Adjusted pre-provision, pre-tax earnings (2) - Q3 2024","value":2939.0,"quarter":3,"year":2024,"value_standardized":1.1406036034}
+{"text":"Reported Diluted Earnings Per Share (EPS) - Q3 2024","value":1.82,"quarter":3,"year":2024,"value_standardized":-0.4459129902}
+{"text":"Adjusted Diluted EPS (2) - Q3 2024","value":1.93,"quarter":3,"year":2024,"value_standardized":-0.4458535737}
+{"text":"Reported Return on Common Shareholders\u2019 Equity (ROE) (3) - Q3 2024","value":13.2,"quarter":3,"year":2024,"value_standardized":-0.4397660878}
+{"text":"Adjusted ROE (2) - Q3 2024","value":14.0,"quarter":3,"year":2024,"value_standardized":-0.4393339681}
+{"text":"Net interest margin on average interest-earnings assets (3)(4) - Q3 2024","value":1.5,"quarter":3,"year":2024,"value_standardized":-0.4460858381}
+{"text":"(3)(4) - Q3 2024","value":1.84,"quarter":3,"year":2024,"value_standardized":-0.4459021872}
+{"text":"Revenue - Q3 2023","value":5852.0,"quarter":3,"year":2023,"value_standardized":2.7140593797}
+{"text":"Reported Net Income - Q3 2023","value":1432.0,"quarter":3,"year":2023,"value_standardized":0.3265981606}
+{"text":"Adjusted Net Income (2) - Q3 2023","value":1475.0,"quarter":3,"year":2023,"value_standardized":0.3498245932}
+{"text":"Adjusted pre-provision, pre-tax earnings (2) - Q3 2023","value":2602.0,"quarter":3,"year":2023,"value_standardized":0.9585731891}
+{"text":"Reported Diluted Earnings Per Share (EPS) - Q3 2023","value":1.47,"quarter":3,"year":2023,"value_standardized":-0.4461020426}
+{"text":"Adjusted Diluted EPS (2) - Q3 2023","value":1.52,"quarter":3,"year":2023,"value_standardized":-0.4460750351}
+{"text":"Reported Return on Common Shareholders\u2019 Equity (ROE) (3) - Q3 2023","value":11.6,"quarter":3,"year":2023,"value_standardized":-0.4406303271}
+{"text":"Adjusted ROE (2) - Q3 2023","value":12.0,"quarter":3,"year":2023,"value_standardized":-0.4404142673}
+{"text":"Net interest margin on average interest-earnings assets (3)(4) - Q3 2023","value":1.49,"quarter":3,"year":2023,"value_standardized":-0.4460912396}
+{"text":"(3)(4) - Q3 2023","value":1.67,"quarter":3,"year":2023,"value_standardized":-0.4459940126}
+{"text":"Revenue - Q2 2024","value":6164.0,"quarter":2,"year":2024,"value_standardized":2.882586054}
+{"text":"Reported Net Income - Q2 2024","value":1749.0,"quarter":2,"year":2024,"value_standardized":0.4978255828}
+{"text":"Adjusted Net Income (2) - Q2 2024","value":1718.0,"quarter":2,"year":2024,"value_standardized":0.4810809453}
+{"text":"Adjusted pre-provision, pre-tax earnings (2) - Q2 2024","value":2690.0,"quarter":2,"year":2024,"value_standardized":1.0061063537}
+{"text":"Reported Diluted Earnings Per Share (EPS) - Q2 2024","value":1.79,"quarter":2,"year":2024,"value_standardized":-0.4459291947}
+{"text":"Adjusted Diluted EPS (2) - Q2 2024","value":1.75,"quarter":2,"year":2024,"value_standardized":-0.4459508007}
+{"text":"Reported Return on Common Shareholders\u2019 Equity (ROE) (3) - Q2 2024","value":13.7,"quarter":2,"year":2024,"value_standardized":-0.439496013}
+{"text":"Adjusted ROE (2) - Q2 2024","value":13.4,"quarter":2,"year":2024,"value_standardized":-0.4396580579}
+{"text":"Net interest margin on average interest-earnings assets (3)(4) - Q2 2024","value":1.46,"quarter":2,"year":2024,"value_standardized":-0.4461074441}
+{"text":"(3)(4) - Q2 2024","value":1.72,"quarter":2,"year":2024,"value_standardized":-0.4459670052}
+{"text":"Revenue - YoY Variance","value":13.0,"quarter":0,"year":0,"value_standardized":-0.4398741177}
+{"text":"Reported Net Income - YoY Variance","value":25.0,"quarter":0,"year":0,"value_standardized":-0.4333923225}
+{"text":"Adjusted Net Income (2) - YoY Variance","value":28.0,"quarter":0,"year":0,"value_standardized":-0.4317718737}
+{"text":"Adjusted pre-provision, pre-tax earnings (2) - YoY Variance","value":13.0,"quarter":0,"year":0,"value_standardized":-0.4398741177}
+{"text":"Reported Diluted Earnings Per Share (EPS) - YoY Variance","value":24.0,"quarter":0,"year":0,"value_standardized":-0.4339324721}
+{"text":"Adjusted Diluted EPS (2) - YoY Variance","value":27.0,"quarter":0,"year":0,"value_standardized":-0.4323120233}
+{"text":"Revenue - QoQ Variance","value":7.0,"quarter":0,"year":0,"value_standardized":-0.4431150153}
+{"text":"Reported Net Income - QoQ Variance","value":3.0,"quarter":0,"year":0,"value_standardized":-0.4452756137}
+{"text":"Adjusted Net Income (2) - QoQ Variance","value":10.0,"quarter":0,"year":0,"value_standardized":-0.4414945665}
+{"text":"Adjusted pre-provision, pre-tax earnings (2) - QoQ Variance","value":9.0,"quarter":0,"year":0,"value_standardized":-0.4420347161}
+{"text":"Reported Diluted Earnings Per Share (EPS) - QoQ Variance","value":2.0,"quarter":0,"year":0,"value_standardized":-0.4458157633}
+{"text":"Adjusted Diluted EPS (2) - QoQ Variance","value":10.0,"quarter":0,"year":0,"value_standardized":-0.4414945665}
+{"text":"Canadian Personal and Business Banking - Total revenueQ3 2024 three months end","value":2598.0,"quarter":3,"year":2024,"value_standardized":0.9564125908}
+{"text":"Canadian Personal and Business Banking - Provision for credit lossesQ3 2024 three months end","value":338.0,"quarter":3,"year":2024,"value_standardized":-0.2643254986}
+{"text":"Canadian Personal and Business Banking - Non-interest expensesQ3 2024 three months end","value":1388.0,"quarter":3,"year":2024,"value_standardized":0.3028315783}
+{"text":"Canadian Personal and Business Banking - Income before income taxesQ3 2024 three months end","value":872.0,"quarter":3,"year":2024,"value_standardized":0.0241143862}
+{"text":"Canadian Personal and Business Banking - Income taxesQ3 2024 three months end","value":244.0,"quarter":3,"year":2024,"value_standardized":-0.3150995608}
+{"text":"Canadian Personal and Business Banking - Net incomeQ3 2024 three months end","value":628.0,"quarter":3,"year":2024,"value_standardized":-0.1076821155}
+{"text":"Canadian Personal and Business Banking - Net income attributable to equity shareholdersQ3 2024 three months end","value":628.0,"quarter":3,"year":2024,"value_standardized":-0.1076821155}
+{"text":"Canadian Personal and Business Banking - Amortization of acquisition-related intangible assetsQ3 2024 three months end","value":-7.0,"quarter":3,"year":2024,"value_standardized":-0.4506771096}
+{"text":"Canadian Personal and Business Banking - Impact of items of note on non-interest expensesQ3 2024 three months end","value":-7.0,"quarter":3,"year":2024,"value_standardized":-0.4506771096}
+{"text":"Canadian Personal and Business Banking - Total pre-tax impact of items of note on net incomeQ3 2024 three months end","value":7.0,"quarter":3,"year":2024,"value_standardized":-0.4431150153}
+{"text":"Canadian Personal and Business Banking - Amortization of acquisition-related intangible assetsQ3 2024 three months end","value":2.0,"quarter":3,"year":2024,"value_standardized":-0.4458157633}
+{"text":"Canadian Personal and Business Banking - Impact of items of note on income taxesQ3 2024 three months end","value":2.0,"quarter":3,"year":2024,"value_standardized":-0.4458157633}
+{"text":"Canadian Personal and Business Banking - Total after-tax impact of items of note on net incomeQ3 2024 three months end","value":5.0,"quarter":3,"year":2024,"value_standardized":-0.4441953145}
+{"text":"Canadian Personal and Business Banking - Total revenue \u2013 adjusted (5)Q3 2024 three months end","value":2598.0,"quarter":3,"year":2024,"value_standardized":0.9564125908}
+{"text":"Canadian Personal and Business Banking - Provision for credit losses \u2013 adjustedQ3 2024 three months end","value":338.0,"quarter":3,"year":2024,"value_standardized":-0.2643254986}
+{"text":"Canadian Personal and Business Banking - Non-interest expenses \u2013 adjustedQ3 2024 three months end","value":1381.0,"quarter":3,"year":2024,"value_standardized":0.2990505311}
+{"text":"Canadian Personal and Business Banking - Income before income taxes \u2013 adjustedQ3 2024 three months end","value":879.0,"quarter":3,"year":2024,"value_standardized":0.0278954334}
+{"text":"Canadian Personal and Business Banking - Income taxes \u2013 adjustedQ3 2024 three months end","value":246.0,"quarter":3,"year":2024,"value_standardized":-0.3140192616}
+{"text":"Canadian Personal and Business Banking - Net income \u2013 adjustedQ3 2024 three months end","value":633.0,"quarter":3,"year":2024,"value_standardized":-0.1049813675}
+{"text":"Canadian Personal and Business Banking - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 three months end","value":633.0,"quarter":3,"year":2024,"value_standardized":-0.1049813675}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenueQ3 2024 three months end","value":1449.0,"quarter":3,"year":2024,"value_standardized":0.3357807037}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit lossesQ3 2024 three months end","value":42.0,"quarter":3,"year":2024,"value_standardized":-0.4242097794}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expensesQ3 2024 three months end","value":762.0,"quarter":3,"year":2024,"value_standardized":-0.0353020695}
+{"text":"Canadian Commercial Banking and Wealth Management - Income before income taxesQ3 2024 three months end","value":645.0,"quarter":3,"year":2024,"value_standardized":-0.0984995723}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxesQ3 2024 three months end","value":177.0,"quarter":3,"year":2024,"value_standardized":-0.3512895838}
+{"text":"Canadian Commercial Banking and Wealth Management - Net incomeQ3 2024 three months end","value":468.0,"quarter":3,"year":2024,"value_standardized":-0.194106051}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income attributable to equity shareholdersQ3 2024 three months end","value":468.0,"quarter":3,"year":2024,"value_standardized":-0.194106051}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q3 2024 three months end","value":1449.0,"quarter":3,"year":2024,"value_standardized":0.3357807037}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ3 2024 three months end","value":42.0,"quarter":3,"year":2024,"value_standardized":-0.4242097794}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ3 2024 three months end","value":762.0,"quarter":3,"year":2024,"value_standardized":-0.0353020695}
+{"text":"Canadian Commercial Banking and Wealth Management - Income before income taxes \u2013 adjustedQ3 2024 three months end","value":645.0,"quarter":3,"year":2024,"value_standardized":-0.0984995723}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ3 2024 three months end","value":177.0,"quarter":3,"year":2024,"value_standardized":-0.3512895838}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income \u2013 adjustedQ3 2024 three months end","value":468.0,"quarter":3,"year":2024,"value_standardized":-0.194106051}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 three months end","value":468.0,"quarter":3,"year":2024,"value_standardized":-0.194106051}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenueQ3 2024 three months end","value":726.0,"quarter":3,"year":2024,"value_standardized":-0.054747455}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit lossesQ3 2024 three months end","value":47.0,"quarter":3,"year":2024,"value_standardized":-0.4215090314}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expensesQ3 2024 three months end","value":416.0,"quarter":3,"year":2024,"value_standardized":-0.2221938301}
+{"text":"U.S. Commercial Banking and Wealth Management - Income before income taxesQ3 2024 three months end","value":263.0,"quarter":3,"year":2024,"value_standardized":-0.3048367184}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxesQ3 2024 three months end","value":48.0,"quarter":3,"year":2024,"value_standardized":-0.4209688818}
+{"text":"U.S. Commercial Banking and Wealth Management - Net incomeQ3 2024 three months end","value":215.0,"quarter":3,"year":2024,"value_standardized":-0.3307638991}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income attributable to equity shareholdersQ3 2024 three months end","value":215.0,"quarter":3,"year":2024,"value_standardized":-0.3307638991}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ3 2024 three months end","value":-8.0,"quarter":3,"year":2024,"value_standardized":-0.4512172592}
+{"text":"U.S. Commercial Banking and Wealth Management - Charge related to the special assessment imposed by the FDICQ3 2024 three months end","value":-2.0,"quarter":3,"year":2024,"value_standardized":-0.4479763617}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on non-interest expensesQ3 2024 three months end","value":-10.0,"quarter":3,"year":2024,"value_standardized":-0.4522975584}
+{"text":"U.S. Commercial Banking and Wealth Management - Total pre-tax impact of items of note on net incomeQ3 2024 three months end","value":10.0,"quarter":3,"year":2024,"value_standardized":-0.4414945665}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ3 2024 three months end","value":2.0,"quarter":3,"year":2024,"value_standardized":-0.4458157633}
+{"text":"U.S. Commercial Banking and Wealth Management - Charge related to the special assessment imposed by the FDICQ3 2024 three months end","value":1.0,"quarter":3,"year":2024,"value_standardized":-0.4463559129}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on income taxesQ3 2024 three months end","value":3.0,"quarter":3,"year":2024,"value_standardized":-0.4452756137}
+{"text":"U.S. Commercial Banking and Wealth Management - Total after-tax impact of items of note on net incomeQ3 2024 three months end","value":7.0,"quarter":3,"year":2024,"value_standardized":-0.4431150153}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q3 2024 three months end","value":726.0,"quarter":3,"year":2024,"value_standardized":-0.054747455}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ3 2024 three months end","value":47.0,"quarter":3,"year":2024,"value_standardized":-0.4215090314}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ3 2024 three months end","value":406.0,"quarter":3,"year":2024,"value_standardized":-0.227595326}
+{"text":"U.S. Commercial Banking and Wealth Management - Income before income taxes \u2013 adjustedQ3 2024 three months end","value":273.0,"quarter":3,"year":2024,"value_standardized":-0.2994352225}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ3 2024 three months end","value":51.0,"quarter":3,"year":2024,"value_standardized":-0.419348433}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income \u2013 adjustedQ3 2024 three months end","value":222.0,"quarter":3,"year":2024,"value_standardized":-0.3269828519}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 three months end","value":222.0,"quarter":3,"year":2024,"value_standardized":-0.3269828519}
+{"text":"Corporate and Other - Total revenueQ3 2024 three months end","value":483.0,"quarter":3,"year":2024,"value_standardized":-0.1860038071}
+{"text":"Corporate and Other - Provision for credit lossesQ3 2024 three months end","value":11.0,"quarter":3,"year":2024,"value_standardized":-0.4409544169}
+{"text":"Corporate and Other - Non-interest expensesQ3 2024 three months end","value":346.0,"quarter":3,"year":2024,"value_standardized":-0.2600043019}
+{"text":"Corporate and Other - Income before income taxesQ3 2024 three months end","value":126.0,"quarter":3,"year":2024,"value_standardized":-0.3788372132}
+{"text":"Corporate and Other - Income taxesQ3 2024 three months end","value":30.0,"quarter":3,"year":2024,"value_standardized":-0.4306915746}
+{"text":"Corporate and Other - Net incomeQ3 2024 three months end","value":96.0,"quarter":3,"year":2024,"value_standardized":-0.3950417011}
+{"text":"Corporate and Other - Net income attributable to non-controlling interestsQ3 2024 three months end","value":9.0,"quarter":3,"year":2024,"value_standardized":-0.4420347161}
+{"text":"Corporate and Other - Net income attributable to equity shareholdersQ3 2024 three months end","value":87.0,"quarter":3,"year":2024,"value_standardized":-0.3999030475}
+{"text":"Corporate and Other - Adjustments related to enactment of a Federal tax measure in June  2024 that denies the dividends received deduction for banks (2)Q3 2024 three months end","value":-123.0,"quarter":3,"year":2024,"value_standardized":-0.5133344629}
+{"text":"Corporate and Other - Impact of items of note on revenueQ3 2024 three months end","value":-123.0,"quarter":3,"year":2024,"value_standardized":-0.5133344629}
+{"text":"Corporate and Other - Total pre-tax impact of items of note on net incomeQ3 2024 three months end","value":-123.0,"quarter":3,"year":2024,"value_standardized":-0.5133344629}
+{"text":"Corporate and Other - Impact of items of note on income taxesQ3 2024 three months end","value":-123.0,"quarter":3,"year":2024,"value_standardized":-0.5133344629}
+{"text":"Corporate and Other - Total revenue \u2013 adjusted (5)Q3 2024 three months end","value":360.0,"quarter":3,"year":2024,"value_standardized":-0.2524422075}
+{"text":"Corporate and Other - Provision for credit losses \u2013 adjustedQ3 2024 three months end","value":11.0,"quarter":3,"year":2024,"value_standardized":-0.4409544169}
+{"text":"Corporate and Other - Non-interest expenses \u2013 adjustedQ3 2024 three months end","value":346.0,"quarter":3,"year":2024,"value_standardized":-0.2600043019}
+{"text":"Corporate and Other - Income before income taxes \u2013 adjustedQ3 2024 three months end","value":3.0,"quarter":3,"year":2024,"value_standardized":-0.4452756137}
+{"text":"Corporate and Other - Income taxes \u2013 adjustedQ3 2024 three months end","value":-93.0,"quarter":3,"year":2024,"value_standardized":-0.497129975}
+{"text":"Corporate and Other - Net income \u2013 adjustedQ3 2024 three months end","value":96.0,"quarter":3,"year":2024,"value_standardized":-0.3950417011}
+{"text":"Corporate and Other - Net income attributable to non-controlling interests \u2013 adjustedQ3 2024 three months end","value":9.0,"quarter":3,"year":2024,"value_standardized":-0.4420347161}
+{"text":"Corporate and Other - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 three months end","value":87.0,"quarter":3,"year":2024,"value_standardized":-0.3999030475}
+{"text":"CIBC Total - Total revenueQ3 2024 three months end","value":6604.0,"quarter":3,"year":2024,"value_standardized":3.1202518767}
+{"text":"CIBC Total - Provision for credit lossesQ3 2024 three months end","value":483.0,"quarter":3,"year":2024,"value_standardized":-0.1860038071}
+{"text":"CIBC Total - Non-interest expensesQ3 2024 three months end","value":3682.0,"quarter":3,"year":2024,"value_standardized":1.541934754}
+{"text":"CIBC Total - Income before income taxesQ3 2024 three months end","value":2439.0,"quarter":3,"year":2024,"value_standardized":0.8705288048}
+{"text":"CIBC Total - Income taxesQ3 2024 three months end","value":644.0,"quarter":3,"year":2024,"value_standardized":-0.0990397219}
+{"text":"CIBC Total - Net incomeQ3 2024 three months end","value":1795.0,"quarter":3,"year":2024,"value_standardized":0.5226724643}
+{"text":"CIBC Total - Net income attributable to non-controlling interestsQ3 2024 three months end","value":9.0,"quarter":3,"year":2024,"value_standardized":-0.4420347161}
+{"text":"CIBC Total - Net income attributable to equity shareholdersQ3 2024 three months end","value":1786.0,"quarter":3,"year":2024,"value_standardized":0.5178111179}
+{"text":"CIBC Total - Diluted EPS ($)Q3 2024 three months end","value":1.82,"quarter":3,"year":2024,"value_standardized":-0.4459129902}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ3 2024 three months end","value":-15.0,"quarter":3,"year":2024,"value_standardized":-0.4549983064}
+{"text":"CIBC Total - Charge related to the special assessment imposed by the FDICQ3 2024 three months end","value":-2.0,"quarter":3,"year":2024,"value_standardized":-0.4479763617}
+{"text":"CIBC Total - Impact of items of note on non-interest expensesQ3 2024 three months end","value":-17.0,"quarter":3,"year":2024,"value_standardized":-0.4560786056}
+{"text":"CIBC Total - Total pre-tax impact of items of note on net incomeQ3 2024 three months end","value":17.0,"quarter":3,"year":2024,"value_standardized":-0.4377135193}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ3 2024 three months end","value":4.0,"quarter":3,"year":2024,"value_standardized":-0.4447354641}
+{"text":"CIBC Total - Adjustments related to enactment of a Federal tax measure in June  2024 that denies the dividends received deduction for banks (2)Q3 2024 three months end","value":-88.0,"quarter":3,"year":2024,"value_standardized":-0.494429227}
+{"text":"CIBC Total - Charge related to the special assessment imposed by the FDICQ3 2024 three months end","value":1.0,"quarter":3,"year":2024,"value_standardized":-0.4463559129}
+{"text":"CIBC Total - Impact of items of note on income taxesQ3 2024 three months end","value":-83.0,"quarter":3,"year":2024,"value_standardized":-0.491728479}
+{"text":"CIBC Total - Total after-tax impact of items of note on net incomeQ3 2024 three months end","value":100.0,"quarter":3,"year":2024,"value_standardized":-0.3928811028}
+{"text":"CIBC Total - Impact of items of note on diluted EPS ($) (3)Q3 2024 three months end","value":0.11,"quarter":3,"year":2024,"value_standardized":-0.446836646}
+{"text":"CIBC Total - Total revenue \u2013 adjusted (5)Q3 2024 three months end","value":6604.0,"quarter":3,"year":2024,"value_standardized":3.1202518767}
+{"text":"CIBC Total - Provision for credit losses \u2013 adjustedQ3 2024 three months end","value":483.0,"quarter":3,"year":2024,"value_standardized":-0.1860038071}
+{"text":"CIBC Total - Non-interest expenses \u2013 adjustedQ3 2024 three months end","value":3665.0,"quarter":3,"year":2024,"value_standardized":1.5327522108}
+{"text":"CIBC Total - Income before income taxes \u2013 adjustedQ3 2024 three months end","value":2456.0,"quarter":3,"year":2024,"value_standardized":0.879711348}
+{"text":"CIBC Total - Income taxes \u2013 adjustedQ3 2024 three months end","value":561.0,"quarter":3,"year":2024,"value_standardized":-0.1438721385}
+{"text":"CIBC Total - Net income \u2013 adjustedQ3 2024 three months end","value":1895.0,"quarter":3,"year":2024,"value_standardized":0.576687424}
+{"text":"CIBC Total - Net income attributable to non-controlling interests \u2013 adjustedQ3 2024 three months end","value":9.0,"quarter":3,"year":2024,"value_standardized":-0.4420347161}
+{"text":"CIBC Total - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 three months end","value":1886.0,"quarter":3,"year":2024,"value_standardized":0.5718260776}
+{"text":"CIBC Total - Adjusted diluted EPS ($)Q3 2024 three months end","value":1.93,"quarter":3,"year":2024,"value_standardized":-0.4458535737}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenueQ3 2024 three months end","value":530.0,"quarter":3,"year":2024,"value_standardized":-0.160616776}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit lossesQ3 2024 three months end","value":33.0,"quarter":3,"year":2024,"value_standardized":-0.4290711258}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expensesQ3 2024 three months end","value":304.0,"quarter":3,"year":2024,"value_standardized":-0.282690585}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income before income taxesQ3 2024 three months end","value":193.0,"quarter":3,"year":2024,"value_standardized":-0.3426471902}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxesQ3 2024 three months end","value":35.0,"quarter":3,"year":2024,"value_standardized":-0.4279908266}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net incomeQ3 2024 three months end","value":158.0,"quarter":3,"year":2024,"value_standardized":-0.3615524261}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income attributable to equity shareholdersQ3 2024 three months end","value":158.0,"quarter":3,"year":2024,"value_standardized":-0.3615524261}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ3 2024 three months end","value":-6.0,"quarter":3,"year":2024,"value_standardized":-0.45013696}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Charge related to the special assessment imposed by the FDICQ3 2024 three months end","value":-2.0,"quarter":3,"year":2024,"value_standardized":-0.4479763617}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on non-interest expensesQ3 2024 three months end","value":-8.0,"quarter":3,"year":2024,"value_standardized":-0.4512172592}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total pre-tax impact of items of note on net incomeQ3 2024 three months end","value":8.0,"quarter":3,"year":2024,"value_standardized":-0.4425748657}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ3 2024 three months end","value":2.0,"quarter":3,"year":2024,"value_standardized":-0.4458157633}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Charge related to the special assessment imposed by the FDICQ3 2024 three months end","value":1.0,"quarter":3,"year":2024,"value_standardized":-0.4463559129}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on income taxesQ3 2024 three months end","value":3.0,"quarter":3,"year":2024,"value_standardized":-0.4452756137}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total after-tax impact of items of note on net incomeQ3 2024 three months end","value":5.0,"quarter":3,"year":2024,"value_standardized":-0.4441953145}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenue \u2013 adjusted (5)Q3 2024 three months end","value":530.0,"quarter":3,"year":2024,"value_standardized":-0.160616776}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit losses \u2013 adjustedQ3 2024 three months end","value":33.0,"quarter":3,"year":2024,"value_standardized":-0.4290711258}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expenses \u2013 adjustedQ3 2024 three months end","value":296.0,"quarter":3,"year":2024,"value_standardized":-0.2870117817}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income before income taxes \u2013 adjustedQ3 2024 three months end","value":201.0,"quarter":3,"year":2024,"value_standardized":-0.3383259935}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxes \u2013 adjustedQ3 2024 three months end","value":38.0,"quarter":3,"year":2024,"value_standardized":-0.4263703778}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income \u2013 adjustedQ3 2024 three months end","value":163.0,"quarter":3,"year":2024,"value_standardized":-0.3588516781}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 three months end","value":163.0,"quarter":3,"year":2024,"value_standardized":-0.3588516781}
+{"text":"Capital Markets and Direct Financial Services - Total revenueQ3 2024 three months end","value":1348.0,"quarter":3,"year":2024,"value_standardized":0.2812255944}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit lossesQ3 2024 three months end","value":45.0,"quarter":3,"year":2024,"value_standardized":-0.4225893306}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expensesQ3 2024 three months end","value":770.0,"quarter":3,"year":2024,"value_standardized":-0.0309808727}
+{"text":"Capital Markets and Direct Financial Services - Income before income taxesQ3 2024 three months end","value":533.0,"quarter":3,"year":2024,"value_standardized":-0.1589963272}
+{"text":"Capital Markets and Direct Financial Services - Income taxesQ3 2024 three months end","value":145.0,"quarter":3,"year":2024,"value_standardized":-0.3685743709}
+{"text":"Capital Markets and Direct Financial Services - Net incomeQ3 2024 three months end","value":388.0,"quarter":3,"year":2024,"value_standardized":-0.2373180188}
+{"text":"Capital Markets and Direct Financial Services - Net income attributable to equity shareholdersQ3 2024 three months end","value":388.0,"quarter":3,"year":2024,"value_standardized":-0.2373180188}
+{"text":"Capital Markets and Direct Financial Services - Adjustments related to enactment of a Federal tax measure in June  2024 that denies the dividends received deduction for banks (2)Q3 2024 three months end","value":123.0,"quarter":3,"year":2024,"value_standardized":-0.380457662}
+{"text":"Capital Markets and Direct Financial Services - Impact of items of note on revenueQ3 2024 three months end","value":123.0,"quarter":3,"year":2024,"value_standardized":-0.380457662}
+{"text":"Capital Markets and Direct Financial Services - Total pre-tax impact of items of note on net incomeQ3 2024 three months end","value":123.0,"quarter":3,"year":2024,"value_standardized":-0.380457662}
+{"text":"Capital Markets and Direct Financial Services - Adjustments related to enactment of a Federal tax measure in June  2024 that denies the dividends received deduction for banks (2)Q3 2024 three months end","value":35.0,"quarter":3,"year":2024,"value_standardized":-0.4279908266}
+{"text":"Capital Markets and Direct Financial Services - Impact of items of note on income taxesQ3 2024 three months end","value":35.0,"quarter":3,"year":2024,"value_standardized":-0.4279908266}
+{"text":"Capital Markets and Direct Financial Services - Total after-tax impact of items of note on net incomeQ3 2024 three months end","value":88.0,"quarter":3,"year":2024,"value_standardized":-0.3993628979}
+{"text":"Capital Markets and Direct Financial Services - Total revenue \u2013 adjusted (5)Q3 2024 three months end","value":1471.0,"quarter":3,"year":2024,"value_standardized":0.3476639948}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit losses \u2013 adjustedQ3 2024 three months end","value":45.0,"quarter":3,"year":2024,"value_standardized":-0.4225893306}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expenses \u2013 adjustedQ3 2024 three months end","value":770.0,"quarter":3,"year":2024,"value_standardized":-0.0309808727}
+{"text":"Capital Markets and Direct Financial Services - Income before income taxes \u2013 adjustedQ3 2024 three months end","value":656.0,"quarter":3,"year":2024,"value_standardized":-0.0925579268}
+{"text":"Capital Markets and Direct Financial Services - Income taxes \u2013 adjustedQ3 2024 three months end","value":180.0,"quarter":3,"year":2024,"value_standardized":-0.349669135}
+{"text":"Capital Markets and Direct Financial Services - Net income \u2013 adjustedQ3 2024 three months end","value":476.0,"quarter":3,"year":2024,"value_standardized":-0.1897848543}
+{"text":"Capital Markets and Direct Financial Services - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 three months end","value":476.0,"quarter":3,"year":2024,"value_standardized":-0.1897848543}
+{"text":"Canadian Personal and Business Banking - Total revenueQ2 2024 three months end","value":2476.0,"quarter":2,"year":2024,"value_standardized":0.8905143399}
+{"text":"Canadian Personal and Business Banking - Provision for credit lossesQ2 2024 three months end","value":270.0,"quarter":2,"year":2024,"value_standardized":-0.3010556713}
+{"text":"Canadian Personal and Business Banking - Non-interest expensesQ2 2024 three months end","value":1319.0,"quarter":2,"year":2024,"value_standardized":0.2655612561}
+{"text":"Canadian Personal and Business Banking - Income (loss) before income taxesQ2 2024 three months end","value":887.0,"quarter":2,"year":2024,"value_standardized":0.0322166301}
+{"text":"Canadian Personal and Business Banking - Income taxesQ2 2024 three months end","value":238.0,"quarter":2,"year":2024,"value_standardized":-0.3183404584}
+{"text":"Canadian Personal and Business Banking - Net income (loss)Q2 2024 three months end","value":649.0,"quarter":2,"year":2024,"value_standardized":-0.096338974}
+{"text":"Canadian Personal and Business Banking - Net income (loss) attributable to equity shareholdersQ2 2024 three months end","value":649.0,"quarter":2,"year":2024,"value_standardized":-0.096338974}
+{"text":"Canadian Personal and Business Banking - Amortization of acquisition-related intangible assetsQ2 2024 three months end","value":-6.0,"quarter":2,"year":2024,"value_standardized":-0.45013696}
+{"text":"Canadian Personal and Business Banking - Impact of items of note on non-interest expensesQ2 2024 three months end","value":-6.0,"quarter":2,"year":2024,"value_standardized":-0.45013696}
+{"text":"Canadian Personal and Business Banking - Total pre-tax impact of items of note on net incomeQ2 2024 three months end","value":6.0,"quarter":2,"year":2024,"value_standardized":-0.4436551649}
+{"text":"Canadian Personal and Business Banking - Amortization of acquisition-related intangible assetsQ2 2024 three months end","value":2.0,"quarter":2,"year":2024,"value_standardized":-0.4458157633}
+{"text":"Canadian Personal and Business Banking - Impact of items of note on income taxesQ2 2024 three months end","value":2.0,"quarter":2,"year":2024,"value_standardized":-0.4458157633}
+{"text":"Canadian Personal and Business Banking - Total after-tax impact of items of note on net incomeQ2 2024 three months end","value":4.0,"quarter":2,"year":2024,"value_standardized":-0.4447354641}
+{"text":"Canadian Personal and Business Banking - Total revenue \u2013 adjusted (5)Q2 2024 three months end","value":2476.0,"quarter":2,"year":2024,"value_standardized":0.8905143399}
+{"text":"Canadian Personal and Business Banking - Provision for credit losses \u2013 adjustedQ2 2024 three months end","value":270.0,"quarter":2,"year":2024,"value_standardized":-0.3010556713}
+{"text":"Canadian Personal and Business Banking - Non-interest expenses \u2013 adjustedQ2 2024 three months end","value":1313.0,"quarter":2,"year":2024,"value_standardized":0.2623203585}
+{"text":"Canadian Personal and Business Banking - Income (loss) before income taxes \u2013 adjustedQ2 2024 three months end","value":893.0,"quarter":2,"year":2024,"value_standardized":0.0354575277}
+{"text":"Canadian Personal and Business Banking - Income taxes \u2013 adjustedQ2 2024 three months end","value":240.0,"quarter":2,"year":2024,"value_standardized":-0.3172601592}
+{"text":"Canadian Personal and Business Banking - Net income (loss) \u2013 adjustedQ2 2024 three months end","value":653.0,"quarter":2,"year":2024,"value_standardized":-0.0941783756}
+{"text":"Canadian Personal and Business Banking - Net income (loss) attributable to equity shareholders \u2013 adjustedQ2 2024 three months end","value":653.0,"quarter":2,"year":2024,"value_standardized":-0.0941783756}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenueQ2 2024 three months end","value":1384.0,"quarter":2,"year":2024,"value_standardized":0.3006709799}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit lossesQ2 2024 three months end","value":37.0,"quarter":2,"year":2024,"value_standardized":-0.4269105274}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expensesQ2 2024 three months end","value":720.0,"quarter":2,"year":2024,"value_standardized":-0.0579883526}
+{"text":"Canadian Commercial Banking and Wealth Management - Income (loss) before income taxesQ2 2024 three months end","value":627.0,"quarter":2,"year":2024,"value_standardized":-0.1082222651}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxesQ2 2024 three months end","value":171.0,"quarter":2,"year":2024,"value_standardized":-0.3545304814}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss)Q2 2024 three months end","value":456.0,"quarter":2,"year":2024,"value_standardized":-0.2005878462}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholdersQ2 2024 three months end","value":456.0,"quarter":2,"year":2024,"value_standardized":-0.2005878462}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q2 2024 three months end","value":1384.0,"quarter":2,"year":2024,"value_standardized":0.3006709799}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ2 2024 three months end","value":37.0,"quarter":2,"year":2024,"value_standardized":-0.4269105274}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ2 2024 three months end","value":720.0,"quarter":2,"year":2024,"value_standardized":-0.0579883526}
+{"text":"Canadian Commercial Banking and Wealth Management - Income (loss) before income taxes \u2013 adjustedQ2 2024 three months end","value":627.0,"quarter":2,"year":2024,"value_standardized":-0.1082222651}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ2 2024 three months end","value":171.0,"quarter":2,"year":2024,"value_standardized":-0.3545304814}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) \u2013 adjustedQ2 2024 three months end","value":456.0,"quarter":2,"year":2024,"value_standardized":-0.2005878462}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholders \u2013 adjustedQ2 2024 three months end","value":456.0,"quarter":2,"year":2024,"value_standardized":-0.2005878462}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenueQ2 2024 three months end","value":666.0,"quarter":2,"year":2024,"value_standardized":-0.0871564308}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit lossesQ2 2024 three months end","value":186.0,"quarter":2,"year":2024,"value_standardized":-0.3464282374}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expensesQ2 2024 three months end","value":396.0,"quarter":2,"year":2024,"value_standardized":-0.232996822}
+{"text":"U.S. Commercial Banking and Wealth Management - Income (loss) before income taxesQ2 2024 three months end","value":84.0,"quarter":2,"year":2024,"value_standardized":-0.4015234963}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxesQ2 2024 three months end","value":-9.0,"quarter":2,"year":2024,"value_standardized":-0.4517574088}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss)Q2 2024 three months end","value":93.0,"quarter":2,"year":2024,"value_standardized":-0.3966621499}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholdersQ2 2024 three months end","value":93.0,"quarter":2,"year":2024,"value_standardized":-0.3966621499}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ2 2024 three months end","value":-8.0,"quarter":2,"year":2024,"value_standardized":-0.4512172592}
+{"text":"U.S. Commercial Banking and Wealth Management - Charge related to the special assessment imposed by the FDICQ2 2024 three months end","value":-13.0,"quarter":2,"year":2024,"value_standardized":-0.4539180072}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on non-interest expensesQ2 2024 three months end","value":-21.0,"quarter":2,"year":2024,"value_standardized":-0.458239204}
+{"text":"U.S. Commercial Banking and Wealth Management - Total pre-tax impact of items of note on net incomeQ2 2024 three months end","value":21.0,"quarter":2,"year":2024,"value_standardized":-0.4355529209}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ2 2024 three months end","value":2.0,"quarter":2,"year":2024,"value_standardized":-0.4458157633}
+{"text":"U.S. Commercial Banking and Wealth Management - Charge related to the special assessment imposed by the FDICQ2 2024 three months end","value":3.0,"quarter":2,"year":2024,"value_standardized":-0.4452756137}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on income taxesQ2 2024 three months end","value":5.0,"quarter":2,"year":2024,"value_standardized":-0.4441953145}
+{"text":"U.S. Commercial Banking and Wealth Management - Total after-tax impact of items of note on net incomeQ2 2024 three months end","value":16.0,"quarter":2,"year":2024,"value_standardized":-0.4382536689}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q2 2024 three months end","value":666.0,"quarter":2,"year":2024,"value_standardized":-0.0871564308}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ2 2024 three months end","value":186.0,"quarter":2,"year":2024,"value_standardized":-0.3464282374}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ2 2024 three months end","value":375.0,"quarter":2,"year":2024,"value_standardized":-0.2443399636}
+{"text":"U.S. Commercial Banking and Wealth Management - Income (loss) before income taxes \u2013 adjustedQ2 2024 three months end","value":105.0,"quarter":2,"year":2024,"value_standardized":-0.3901803548}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ2 2024 three months end","value":-4.0,"quarter":2,"year":2024,"value_standardized":-0.4490566609}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) \u2013 adjustedQ2 2024 three months end","value":109.0,"quarter":2,"year":2024,"value_standardized":-0.3880197564}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholders \u2013 adjustedQ2 2024 three months end","value":109.0,"quarter":2,"year":2024,"value_standardized":-0.3880197564}
+{"text":"Capital Markets and Direct Financial Services - Total revenueQ2 2024 three months end","value":1488.0,"quarter":2,"year":2024,"value_standardized":0.356846538}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit lossesQ2 2024 three months end","value":16.0,"quarter":2,"year":2024,"value_standardized":-0.4382536689}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expensesQ2 2024 three months end","value":706.0,"quarter":2,"year":2024,"value_standardized":-0.0655504469}
+{"text":"Capital Markets and Direct Financial Services - Income (loss) before income taxesQ2 2024 three months end","value":766.0,"quarter":2,"year":2024,"value_standardized":-0.0331414711}
+{"text":"Capital Markets and Direct Financial Services - Income taxesQ2 2024 three months end","value":206.0,"quarter":2,"year":2024,"value_standardized":-0.3356252455}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss)Q2 2024 three months end","value":560.0,"quarter":2,"year":2024,"value_standardized":-0.1444122881}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) attributable to equity shareholdersQ2 2024 three months end","value":560.0,"quarter":2,"year":2024,"value_standardized":-0.1444122881}
+{"text":"Capital Markets and Direct Financial Services - Impact of items of note on revenueQ2 2024 three months end","value":-71.0,"quarter":2,"year":2024,"value_standardized":-0.4852466839}
+{"text":"Capital Markets and Direct Financial Services - Total pre-tax impact of items of note on net incomeQ2 2024 three months end","value":-71.0,"quarter":2,"year":2024,"value_standardized":-0.4852466839}
+{"text":"Capital Markets and Direct Financial Services - Impact of items of note on income taxesQ2 2024 three months end","value":-20.0,"quarter":2,"year":2024,"value_standardized":-0.4576990544}
+{"text":"Capital Markets and Direct Financial Services - Total after-tax impact of items of note on net incomeQ2 2024 three months end","value":-51.0,"quarter":2,"year":2024,"value_standardized":-0.4744436919}
+{"text":"Capital Markets and Direct Financial Services - Total revenue \u2013 adjusted (5)Q2 2024 three months end","value":1417.0,"quarter":2,"year":2024,"value_standardized":0.3184959166}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit losses \u2013 adjustedQ2 2024 three months end","value":16.0,"quarter":2,"year":2024,"value_standardized":-0.4382536689}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expenses \u2013 adjustedQ2 2024 three months end","value":706.0,"quarter":2,"year":2024,"value_standardized":-0.0655504469}
+{"text":"Capital Markets and Direct Financial Services - Income (loss) before income taxes \u2013 adjustedQ2 2024 three months end","value":695.0,"quarter":2,"year":2024,"value_standardized":-0.0714920925}
+{"text":"Capital Markets and Direct Financial Services - Income taxes \u2013 adjustedQ2 2024 three months end","value":186.0,"quarter":2,"year":2024,"value_standardized":-0.3464282374}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) \u2013 adjustedQ2 2024 three months end","value":509.0,"quarter":2,"year":2024,"value_standardized":-0.1719599175}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) attributable to equity shareholders \u2013 adjustedQ2 2024 three months end","value":509.0,"quarter":2,"year":2024,"value_standardized":-0.1719599175}
+{"text":"Corporate and Other - Total revenueQ2 2024 three months end","value":150.0,"quarter":2,"year":2024,"value_standardized":-0.3658736229}
+{"text":"Corporate and Other - Provision for credit lossesQ2 2024 three months end","value":5.0,"quarter":2,"year":2024,"value_standardized":-0.4441953145}
+{"text":"Corporate and Other - Non-interest expensesQ2 2024 three months end","value":360.0,"quarter":2,"year":2024,"value_standardized":-0.2524422075}
+{"text":"Corporate and Other - Income (loss) before income taxesQ2 2024 three months end","value":-215.0,"quarter":2,"year":2024,"value_standardized":-0.5630282258}
+{"text":"Corporate and Other - Income taxesQ2 2024 three months end","value":-206.0,"quarter":2,"year":2024,"value_standardized":-0.5581668795}
+{"text":"Corporate and Other - Net income (loss)Q2 2024 three months end","value":-9.0,"quarter":2,"year":2024,"value_standardized":-0.4517574088}
+{"text":"Corporate and Other - Net income attributable to non-controlling interestsQ2 2024 three months end","value":10.0,"quarter":2,"year":2024,"value_standardized":-0.4414945665}
+{"text":"Corporate and Other - Net income (loss) attributable to equity shareholdersQ2 2024 three months end","value":-19.0,"quarter":2,"year":2024,"value_standardized":-0.4571589048}
+{"text":"Corporate and Other - Impact of items of note on revenueQ2 2024 three months end","value":71.0,"quarter":2,"year":2024,"value_standardized":-0.4085454411}
+{"text":"Corporate and Other - Total pre-tax impact of items of note on net incomeQ2 2024 three months end","value":71.0,"quarter":2,"year":2024,"value_standardized":-0.4085454411}
+{"text":"Corporate and Other - Impact of items of note on income taxesQ2 2024 three months end","value":71.0,"quarter":2,"year":2024,"value_standardized":-0.4085454411}
+{"text":"Corporate and Other - Total revenue \u2013 adjusted (5)Q2 2024 three months end","value":221.0,"quarter":2,"year":2024,"value_standardized":-0.3275230015}
+{"text":"Corporate and Other - Provision for credit losses \u2013 adjustedQ2 2024 three months end","value":5.0,"quarter":2,"year":2024,"value_standardized":-0.4441953145}
+{"text":"Corporate and Other - Non-interest expenses \u2013 adjustedQ2 2024 three months end","value":360.0,"quarter":2,"year":2024,"value_standardized":-0.2524422075}
+{"text":"Corporate and Other - Income (loss) before income taxes \u2013 adjustedQ2 2024 three months end","value":-144.0,"quarter":2,"year":2024,"value_standardized":-0.5246776044}
+{"text":"Corporate and Other - Income taxes \u2013 adjustedQ2 2024 three months end","value":-135.0,"quarter":2,"year":2024,"value_standardized":-0.5198162581}
+{"text":"Corporate and Other - Net income (loss) \u2013 adjustedQ2 2024 three months end","value":-9.0,"quarter":2,"year":2024,"value_standardized":-0.4517574088}
+{"text":"Corporate and Other - Net income attributable to non-controlling interests \u2013 adjustedQ2 2024 three months end","value":10.0,"quarter":2,"year":2024,"value_standardized":-0.4414945665}
+{"text":"Corporate and Other - Net income (loss) attributable to equity shareholders \u2013 adjustedQ2 2024 three months end","value":-19.0,"quarter":2,"year":2024,"value_standardized":-0.4571589048}
+{"text":"CIBC Total - Total revenueQ2 2024 three months end","value":6164.0,"quarter":2,"year":2024,"value_standardized":2.882586054}
+{"text":"CIBC Total - Provision for credit lossesQ2 2024 three months end","value":514.0,"quarter":2,"year":2024,"value_standardized":-0.1692591696}
+{"text":"CIBC Total - Non-interest expensesQ2 2024 three months end","value":3501.0,"quarter":2,"year":2024,"value_standardized":1.4441676769}
+{"text":"CIBC Total - Income (loss) before income taxesQ2 2024 three months end","value":2149.0,"quarter":2,"year":2024,"value_standardized":0.7138854217}
+{"text":"CIBC Total - Income taxesQ2 2024 three months end","value":400.0,"quarter":2,"year":2024,"value_standardized":-0.2308362236}
+{"text":"CIBC Total - Net income (loss)Q2 2024 three months end","value":1749.0,"quarter":2,"year":2024,"value_standardized":0.4978255828}
+{"text":"CIBC Total - Net income attributable to non-controlling interestsQ2 2024 three months end","value":10.0,"quarter":2,"year":2024,"value_standardized":-0.4414945665}
+{"text":"CIBC Total - Net income (loss) attributable to equity shareholdersQ2 2024 three months end","value":1739.0,"quarter":2,"year":2024,"value_standardized":0.4924240869}
+{"text":"CIBC Total - Diluted EPS ($)Q2 2024 three months end","value":1.79,"quarter":2,"year":2024,"value_standardized":-0.4459291947}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ2 2024 three months end","value":-14.0,"quarter":2,"year":2024,"value_standardized":-0.4544581568}
+{"text":"CIBC Total - Charge related to the special assessment imposed by the FDICQ2 2024 three months end","value":-13.0,"quarter":2,"year":2024,"value_standardized":-0.4539180072}
+{"text":"CIBC Total - Impact of items of note on non-interest expensesQ2 2024 three months end","value":-27.0,"quarter":2,"year":2024,"value_standardized":-0.4614801016}
+{"text":"CIBC Total - Total pre-tax impact of items of note on net incomeQ2 2024 three months end","value":27.0,"quarter":2,"year":2024,"value_standardized":-0.4323120233}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ2 2024 three months end","value":4.0,"quarter":2,"year":2024,"value_standardized":-0.4447354641}
+{"text":"CIBC Total - Charge related to the special assessment imposed by the FDICQ2 2024 three months end","value":3.0,"quarter":2,"year":2024,"value_standardized":-0.4452756137}
+{"text":"CIBC Total - Impact of items of note on income taxesQ2 2024 three months end","value":58.0,"quarter":2,"year":2024,"value_standardized":-0.4155673858}
+{"text":"CIBC Total - Total after-tax impact of items of note on net incomeQ2 2024 three months end","value":-31.0,"quarter":2,"year":2024,"value_standardized":-0.4636407}
+{"text":"CIBC Total - Impact of items of note on diluted EPS ($) (3)Q2 2024 three months end","value":-0.04,"quarter":2,"year":2024,"value_standardized":-0.4469176684}
+{"text":"CIBC Total - Total revenue \u2013 adjusted (5)Q2 2024 three months end","value":6164.0,"quarter":2,"year":2024,"value_standardized":2.882586054}
+{"text":"CIBC Total - Provision for credit losses \u2013 adjustedQ2 2024 three months end","value":514.0,"quarter":2,"year":2024,"value_standardized":-0.1692591696}
+{"text":"CIBC Total - Non-interest expenses \u2013 adjustedQ2 2024 three months end","value":3474.0,"quarter":2,"year":2024,"value_standardized":1.4295836378}
+{"text":"CIBC Total - Income (loss) before income taxes \u2013 adjustedQ2 2024 three months end","value":2176.0,"quarter":2,"year":2024,"value_standardized":0.7284694608}
+{"text":"CIBC Total - Income taxes \u2013 adjustedQ2 2024 three months end","value":458.0,"quarter":2,"year":2024,"value_standardized":-0.199507547}
+{"text":"CIBC Total - Net income (loss) \u2013 adjustedQ2 2024 three months end","value":1718.0,"quarter":2,"year":2024,"value_standardized":0.4810809453}
+{"text":"CIBC Total - Net income attributable to non-controlling interests \u2013 adjustedQ2 2024 three months end","value":10.0,"quarter":2,"year":2024,"value_standardized":-0.4414945665}
+{"text":"CIBC Total - Net income (loss) attributable to equity shareholders \u2013 adjustedQ2 2024 three months end","value":1708.0,"quarter":2,"year":2024,"value_standardized":0.4756794494}
+{"text":"CIBC Total - Adjusted diluted EPS ($)Q2 2024 three months end","value":1.75,"quarter":2,"year":2024,"value_standardized":-0.4459508007}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenueQ2 2024 three months end","value":489.0,"quarter":2,"year":2024,"value_standardized":-0.1827629095}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit lossesQ2 2024 three months end","value":136.0,"quarter":2,"year":2024,"value_standardized":-0.3734357173}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expensesQ2 2024 three months end","value":290.0,"quarter":2,"year":2024,"value_standardized":-0.2902526793}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income (loss) before income taxesQ2 2024 three months end","value":63.0,"quarter":2,"year":2024,"value_standardized":-0.4128666378}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxesQ2 2024 three months end","value":-6.0,"quarter":2,"year":2024,"value_standardized":-0.45013696}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss)Q2 2024 three months end","value":69.0,"quarter":2,"year":2024,"value_standardized":-0.4096257403}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) attributable to equity shareholdersQ2 2024 three months end","value":69.0,"quarter":2,"year":2024,"value_standardized":-0.4096257403}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ2 2024 three months end","value":-6.0,"quarter":2,"year":2024,"value_standardized":-0.45013696}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Charge related to the special assessment imposed by the FDICQ2 2024 three months end","value":-10.0,"quarter":2,"year":2024,"value_standardized":-0.4522975584}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on non-interest expensesQ2 2024 three months end","value":-16.0,"quarter":2,"year":2024,"value_standardized":-0.455538456}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total pre-tax impact of items of note on net incomeQ2 2024 three months end","value":16.0,"quarter":2,"year":2024,"value_standardized":-0.4382536689}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ2 2024 three months end","value":2.0,"quarter":2,"year":2024,"value_standardized":-0.4458157633}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Charge related to the special assessment imposed by the FDICQ2 2024 three months end","value":2.0,"quarter":2,"year":2024,"value_standardized":-0.4458157633}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on income taxesQ2 2024 three months end","value":4.0,"quarter":2,"year":2024,"value_standardized":-0.4447354641}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total after-tax impact of items of note on net incomeQ2 2024 three months end","value":12.0,"quarter":2,"year":2024,"value_standardized":-0.4404142673}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenue \u2013 adjusted (5)Q2 2024 three months end","value":489.0,"quarter":2,"year":2024,"value_standardized":-0.1827629095}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit losses \u2013 adjustedQ2 2024 three months end","value":136.0,"quarter":2,"year":2024,"value_standardized":-0.3734357173}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expenses \u2013 adjustedQ2 2024 three months end","value":274.0,"quarter":2,"year":2024,"value_standardized":-0.2988950729}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income (loss) before income taxes \u2013 adjustedQ2 2024 three months end","value":79.0,"quarter":2,"year":2024,"value_standardized":-0.4042242443}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxes \u2013 adjustedQ2 2024 three months end","value":-2.0,"quarter":2,"year":2024,"value_standardized":-0.4479763617}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) \u2013 adjustedQ2 2024 three months end","value":81.0,"quarter":2,"year":2024,"value_standardized":-0.4031439451}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) attributable to equity shareholders \u2013 adjustedQ2 2024 three months end","value":81.0,"quarter":2,"year":2024,"value_standardized":-0.4031439451}
+{"text":"Capital Markets and Direct Financial Services - Recovery to income tax that will be eliminated with the substantive enactment of a Federal proposal to deny the dividends received deduction for banks (2)Q2 2024 three months end","value":-71.0,"quarter":2,"year":2024,"value_standardized":-0.4852466839}
+{"text":"Corporate and Other - Recovery to income tax that will be eliminated with the substantive enactment of a Federal proposal to deny the dividends received deduction for banks (2)Q2 2024 three months end","value":71.0,"quarter":2,"year":2024,"value_standardized":-0.4085454411}
+{"text":"Canadian Personal and Business Banking(6) - Total revenueQ3 2023 three months end","value":2414.0,"quarter":3,"year":2023,"value_standardized":0.8570250649}
+{"text":"Canadian Personal and Business Banking(6) - Provision for credit lossesQ3 2023 three months end","value":423.0,"quarter":3,"year":2023,"value_standardized":-0.2184127829}
+{"text":"Canadian Personal and Business Banking(6) - Non-interest expensesQ3 2023 three months end","value":1303.0,"quarter":3,"year":2023,"value_standardized":0.2569188625}
+{"text":"Canadian Personal and Business Banking(6) - Income (loss) before income taxesQ3 2023 three months end","value":688.0,"quarter":3,"year":2023,"value_standardized":-0.0752731397}
+{"text":"Canadian Personal and Business Banking(6) - Income taxesQ3 2023 three months end","value":189.0,"quarter":3,"year":2023,"value_standardized":-0.3448077886}
+{"text":"Canadian Personal and Business Banking(6) - Net incomeQ3 2023 three months end","value":499.0,"quarter":3,"year":2023,"value_standardized":-0.1773614135}
+{"text":"Canadian Personal and Business Banking(6) - Net income (loss) attributable to equity shareholdersQ3 2023 three months end","value":499.0,"quarter":3,"year":2023,"value_standardized":-0.1773614135}
+{"text":"Canadian Personal and Business Banking(6) - Canadian Federal budgetQ3 2023 three months end","value":34.0,"quarter":3,"year":2023,"value_standardized":-0.4285309762}
+{"text":"Canadian Personal and Business Banking(6) - Impact of items of note on revenueQ3 2023 three months end","value":34.0,"quarter":3,"year":2023,"value_standardized":-0.4285309762}
+{"text":"Canadian Personal and Business Banking(6) - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":-7.0,"quarter":3,"year":2023,"value_standardized":-0.4506771096}
+{"text":"Canadian Personal and Business Banking(6) - Impact of items of note on non-interest expensesQ3 2023 three months end","value":-7.0,"quarter":3,"year":2023,"value_standardized":-0.4506771096}
+{"text":"Canadian Personal and Business Banking(6) - Total pre-tax impact of items of note on net incomeQ3 2023 three months end","value":41.0,"quarter":3,"year":2023,"value_standardized":-0.424749929}
+{"text":"Canadian Personal and Business Banking(6) - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":2.0,"quarter":3,"year":2023,"value_standardized":-0.4458157633}
+{"text":"Canadian Personal and Business Banking(6) - Canadian Federal budgetQ3 2023 three months end","value":9.0,"quarter":3,"year":2023,"value_standardized":-0.4420347161}
+{"text":"Canadian Personal and Business Banking(6) - Impact of items of note on income taxesQ3 2023 three months end","value":11.0,"quarter":3,"year":2023,"value_standardized":-0.4409544169}
+{"text":"Canadian Personal and Business Banking(6) - Total after-tax impact of items of note on net incomeQ3 2023 three months end","value":30.0,"quarter":3,"year":2023,"value_standardized":-0.4306915746}
+{"text":"Canadian Personal and Business Banking(6) - Total revenue \u2013 adjusted (5)Q3 2023 three months end","value":2448.0,"quarter":3,"year":2023,"value_standardized":0.8753901512}
+{"text":"Canadian Personal and Business Banking(6) - Provision for credit losses \u2013 adjustedQ3 2023 three months end","value":423.0,"quarter":3,"year":2023,"value_standardized":-0.2184127829}
+{"text":"Canadian Personal and Business Banking(6) - Non-interest expenses \u2013 adjustedQ3 2023 three months end","value":1296.0,"quarter":3,"year":2023,"value_standardized":0.2531378154}
+{"text":"Canadian Personal and Business Banking(6) - Income (loss) before income taxes \u2013 adjustedQ3 2023 three months end","value":729.0,"quarter":3,"year":2023,"value_standardized":-0.0531270062}
+{"text":"Canadian Personal and Business Banking(6) - Income taxes \u2013 adjustedQ3 2023 three months end","value":200.0,"quarter":3,"year":2023,"value_standardized":-0.338866143}
+{"text":"Canadian Personal and Business Banking(6) - Net income (loss) \u2013 adjustedQ3 2023 three months end","value":529.0,"quarter":3,"year":2023,"value_standardized":-0.1611569256}
+{"text":"Canadian Personal and Business Banking(6) - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 three months end","value":529.0,"quarter":3,"year":2023,"value_standardized":-0.1611569256}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenueQ3 2023 three months end","value":1350.0,"quarter":3,"year":2023,"value_standardized":0.2823058936}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit lossesQ3 2023 three months end","value":40.0,"quarter":3,"year":2023,"value_standardized":-0.4252900786}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expensesQ3 2023 three months end","value":674.0,"quarter":3,"year":2023,"value_standardized":-0.082835234}
+{"text":"Canadian Commercial Banking and Wealth Management - Income (loss) before income taxesQ3 2023 three months end","value":636.0,"quarter":3,"year":2023,"value_standardized":-0.1033609187}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxesQ3 2023 three months end","value":169.0,"quarter":3,"year":2023,"value_standardized":-0.3556107806}
+{"text":"Canadian Commercial Banking and Wealth Management - Net incomeQ3 2023 three months end","value":467.0,"quarter":3,"year":2023,"value_standardized":-0.1946462006}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholdersQ3 2023 three months end","value":467.0,"quarter":3,"year":2023,"value_standardized":-0.1946462006}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q3 2023 three months end","value":1350.0,"quarter":3,"year":2023,"value_standardized":0.2823058936}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ3 2023 three months end","value":40.0,"quarter":3,"year":2023,"value_standardized":-0.4252900786}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ3 2023 three months end","value":674.0,"quarter":3,"year":2023,"value_standardized":-0.082835234}
+{"text":"Canadian Commercial Banking and Wealth Management - Income (loss) before income taxes \u2013 adjustedQ3 2023 three months end","value":636.0,"quarter":3,"year":2023,"value_standardized":-0.1033609187}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ3 2023 three months end","value":169.0,"quarter":3,"year":2023,"value_standardized":-0.3556107806}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) \u2013 adjustedQ3 2023 three months end","value":467.0,"quarter":3,"year":2023,"value_standardized":-0.1946462006}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 three months end","value":467.0,"quarter":3,"year":2023,"value_standardized":-0.1946462006}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenueQ3 2023 three months end","value":666.0,"quarter":3,"year":2023,"value_standardized":-0.0871564308}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit lossesQ3 2023 three months end","value":255.0,"quarter":3,"year":2023,"value_standardized":-0.3091579152}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expensesQ3 2023 three months end","value":345.0,"quarter":3,"year":2023,"value_standardized":-0.2605444515}
+{"text":"U.S. Commercial Banking and Wealth Management - Income (loss) before income taxesQ3 2023 three months end","value":66.0,"quarter":3,"year":2023,"value_standardized":-0.4112461891}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxesQ3 2023 three months end","value":-7.0,"quarter":3,"year":2023,"value_standardized":-0.4506771096}
+{"text":"U.S. Commercial Banking and Wealth Management - Net incomeQ3 2023 three months end","value":73.0,"quarter":3,"year":2023,"value_standardized":-0.4074651419}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholdersQ3 2023 three months end","value":73.0,"quarter":3,"year":2023,"value_standardized":-0.4074651419}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":-13.0,"quarter":3,"year":2023,"value_standardized":-0.4539180072}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on non-interest expensesQ3 2023 three months end","value":-13.0,"quarter":3,"year":2023,"value_standardized":-0.4539180072}
+{"text":"U.S. Commercial Banking and Wealth Management - Total pre-tax impact of items of note on net incomeQ3 2023 three months end","value":13.0,"quarter":3,"year":2023,"value_standardized":-0.4398741177}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":3.0,"quarter":3,"year":2023,"value_standardized":-0.4452756137}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on income taxesQ3 2023 three months end","value":3.0,"quarter":3,"year":2023,"value_standardized":-0.4452756137}
+{"text":"U.S. Commercial Banking and Wealth Management - Total after-tax impact of items of note on net incomeQ3 2023 three months end","value":10.0,"quarter":3,"year":2023,"value_standardized":-0.4414945665}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q3 2023 three months end","value":666.0,"quarter":3,"year":2023,"value_standardized":-0.0871564308}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ3 2023 three months end","value":255.0,"quarter":3,"year":2023,"value_standardized":-0.3091579152}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ3 2023 three months end","value":332.0,"quarter":3,"year":2023,"value_standardized":-0.2675663962}
+{"text":"U.S. Commercial Banking and Wealth Management - Income (loss) before income taxes \u2013 adjustedQ3 2023 three months end","value":79.0,"quarter":3,"year":2023,"value_standardized":-0.4042242443}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ3 2023 three months end","value":-4.0,"quarter":3,"year":2023,"value_standardized":-0.4490566609}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) \u2013 adjustedQ3 2023 three months end","value":83.0,"quarter":3,"year":2023,"value_standardized":-0.4020636459}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 three months end","value":83.0,"quarter":3,"year":2023,"value_standardized":-0.4020636459}
+{"text":"Capital Markets and Direct Financial Services - Total revenueQ3 2023 three months end","value":1355.0,"quarter":3,"year":2023,"value_standardized":0.2850066416}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit lossesQ3 2023 three months end","value":6.0,"quarter":3,"year":2023,"value_standardized":-0.4436551649}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expensesQ3 2023 three months end","value":673.0,"quarter":3,"year":2023,"value_standardized":-0.0833753836}
+{"text":"Capital Markets and Direct Financial Services - Income (loss) before income taxesQ3 2023 three months end","value":676.0,"quarter":3,"year":2023,"value_standardized":-0.0817549348}
+{"text":"Capital Markets and Direct Financial Services - Income taxesQ3 2023 three months end","value":182.0,"quarter":3,"year":2023,"value_standardized":-0.3485888358}
+{"text":"Capital Markets and Direct Financial Services - Net incomeQ3 2023 three months end","value":494.0,"quarter":3,"year":2023,"value_standardized":-0.1800621615}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) attributable to equity shareholdersQ3 2023 three months end","value":494.0,"quarter":3,"year":2023,"value_standardized":-0.1800621615}
+{"text":"Capital Markets and Direct Financial Services - Total revenue \u2013 adjusted (5)Q3 2023 three months end","value":1355.0,"quarter":3,"year":2023,"value_standardized":0.2850066416}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit losses \u2013 adjustedQ3 2023 three months end","value":6.0,"quarter":3,"year":2023,"value_standardized":-0.4436551649}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expenses \u2013 adjustedQ3 2023 three months end","value":673.0,"quarter":3,"year":2023,"value_standardized":-0.0833753836}
+{"text":"Capital Markets and Direct Financial Services - Income (loss) before income taxes \u2013 adjustedQ3 2023 three months end","value":676.0,"quarter":3,"year":2023,"value_standardized":-0.0817549348}
+{"text":"Capital Markets and Direct Financial Services - Income taxes \u2013 adjustedQ3 2023 three months end","value":182.0,"quarter":3,"year":2023,"value_standardized":-0.3485888358}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) \u2013 adjustedQ3 2023 three months end","value":494.0,"quarter":3,"year":2023,"value_standardized":-0.1800621615}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 three months end","value":494.0,"quarter":3,"year":2023,"value_standardized":-0.1800621615}
+{"text":"Corporate and Other - Total revenueQ3 2023 three months end","value":67.0,"quarter":3,"year":2023,"value_standardized":-0.4107060395}
+{"text":"Corporate and Other - Provision for credit lossesQ3 2023 three months end","value":12.0,"quarter":3,"year":2023,"value_standardized":-0.4404142673}
+{"text":"Corporate and Other - Non-interest expensesQ3 2023 three months end","value":312.0,"quarter":3,"year":2023,"value_standardized":-0.2783693882}
+{"text":"Corporate and Other - Income (loss) before income taxesQ3 2023 three months end","value":-257.0,"quarter":3,"year":2023,"value_standardized":-0.5857145089}
+{"text":"Corporate and Other - Income taxesQ3 2023 three months end","value":-156.0,"quarter":3,"year":2023,"value_standardized":-0.5311593996}
+{"text":"Corporate and Other - Net incomeQ3 2023 three months end","value":-101.0,"quarter":3,"year":2023,"value_standardized":-0.5014511718}
+{"text":"Corporate and Other - Net income attributable to non-controlling interestsQ3 2023 three months end","value":10.0,"quarter":3,"year":2023,"value_standardized":-0.4414945665}
+{"text":"Corporate and Other - Net income (loss) attributable to equity shareholdersQ3 2023 three months end","value":-111.0,"quarter":3,"year":2023,"value_standardized":-0.5068526677}
+{"text":"Corporate and Other - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":-3.0,"quarter":3,"year":2023,"value_standardized":-0.4485165113}
+{"text":"Corporate and Other - Impact of items of note on non-interest expensesQ3 2023 three months end","value":-3.0,"quarter":3,"year":2023,"value_standardized":-0.4485165113}
+{"text":"Corporate and Other - Total pre-tax impact of items of note on net incomeQ3 2023 three months end","value":3.0,"quarter":3,"year":2023,"value_standardized":-0.4452756137}
+{"text":"Corporate and Other - Total after-tax impact of items of note on net incomeQ3 2023 three months end","value":3.0,"quarter":3,"year":2023,"value_standardized":-0.4452756137}
+{"text":"Corporate and Other - Total revenue \u2013 adjusted (5)Q3 2023 three months end","value":67.0,"quarter":3,"year":2023,"value_standardized":-0.4107060395}
+{"text":"Corporate and Other - Provision for credit losses \u2013 adjustedQ3 2023 three months end","value":12.0,"quarter":3,"year":2023,"value_standardized":-0.4404142673}
+{"text":"Corporate and Other - Non-interest expenses \u2013 adjustedQ3 2023 three months end","value":309.0,"quarter":3,"year":2023,"value_standardized":-0.279989837}
+{"text":"Corporate and Other - Income (loss) before income taxes \u2013 adjustedQ3 2023 three months end","value":-254.0,"quarter":3,"year":2023,"value_standardized":-0.5840940601}
+{"text":"Corporate and Other - Income taxes \u2013 adjustedQ3 2023 three months end","value":-156.0,"quarter":3,"year":2023,"value_standardized":-0.5311593996}
+{"text":"Corporate and Other - Net income (loss) \u2013 adjustedQ3 2023 three months end","value":-98.0,"quarter":3,"year":2023,"value_standardized":-0.499830723}
+{"text":"Corporate and Other - Net income attributable to non-controlling interests \u2013 adjustedQ3 2023 three months end","value":10.0,"quarter":3,"year":2023,"value_standardized":-0.4414945665}
+{"text":"Corporate and Other - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 three months end","value":-108.0,"quarter":3,"year":2023,"value_standardized":-0.5052322189}
+{"text":"CIBC Total - Total revenueQ3 2023 three months end","value":5852.0,"quarter":3,"year":2023,"value_standardized":2.7140593797}
+{"text":"CIBC Total - Provision for credit lossesQ3 2023 three months end","value":736.0,"quarter":3,"year":2023,"value_standardized":-0.049345959}
+{"text":"CIBC Total - Non-interest expensesQ3 2023 three months end","value":3307.0,"quarter":3,"year":2023,"value_standardized":1.3393786551}
+{"text":"CIBC Total - Income (loss) before income taxesQ3 2023 three months end","value":1809.0,"quarter":3,"year":2023,"value_standardized":0.5302345587}
+{"text":"CIBC Total - Income taxesQ3 2023 three months end","value":377.0,"quarter":3,"year":2023,"value_standardized":-0.2432596644}
+{"text":"CIBC Total - Net incomeQ3 2023 three months end","value":1432.0,"quarter":3,"year":2023,"value_standardized":0.3265981606}
+{"text":"CIBC Total - Net income attributable to non-controlling interestsQ3 2023 three months end","value":10.0,"quarter":3,"year":2023,"value_standardized":-0.4414945665}
+{"text":"CIBC Total - Net income (loss) attributable to equity shareholdersQ3 2023 three months end","value":1422.0,"quarter":3,"year":2023,"value_standardized":0.3211966646}
+{"text":"CIBC Total - Diluted EPS ($)Q3 2023 three months end","value":1.47,"quarter":3,"year":2023,"value_standardized":-0.4461020426}
+{"text":"CIBC Total - Impact of items of note on revenueQ3 2023 three months end","value":34.0,"quarter":3,"year":2023,"value_standardized":-0.4285309762}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":-23.0,"quarter":3,"year":2023,"value_standardized":-0.4593195032}
+{"text":"CIBC Total - Impact of items of note on non-interest expensesQ3 2023 three months end","value":-23.0,"quarter":3,"year":2023,"value_standardized":-0.4593195032}
+{"text":"CIBC Total - Total pre-tax impact of items of note on net incomeQ3 2023 three months end","value":57.0,"quarter":3,"year":2023,"value_standardized":-0.4161075354}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":5.0,"quarter":3,"year":2023,"value_standardized":-0.4441953145}
+{"text":"CIBC Total - Impact of items of note on income taxesQ3 2023 three months end","value":14.0,"quarter":3,"year":2023,"value_standardized":-0.4393339681}
+{"text":"CIBC Total - Total after-tax impact of items of note on net incomeQ3 2023 three months end","value":43.0,"quarter":3,"year":2023,"value_standardized":-0.4236696298}
+{"text":"CIBC Total - Impact of items of note on diluted EPS ($) (3)Q3 2023 three months end","value":0.05,"quarter":3,"year":2023,"value_standardized":-0.446869055}
+{"text":"CIBC Total - Total revenue \u2013 adjusted (5)Q3 2023 three months end","value":5886.0,"quarter":3,"year":2023,"value_standardized":2.732424466}
+{"text":"CIBC Total - Provision for credit losses \u2013 adjustedQ3 2023 three months end","value":736.0,"quarter":3,"year":2023,"value_standardized":-0.049345959}
+{"text":"CIBC Total - Non-interest expenses \u2013 adjustedQ3 2023 three months end","value":3284.0,"quarter":3,"year":2023,"value_standardized":1.3269552144}
+{"text":"CIBC Total - Income (loss) before income taxes \u2013 adjustedQ3 2023 three months end","value":1866.0,"quarter":3,"year":2023,"value_standardized":0.5610230857}
+{"text":"CIBC Total - Income taxes \u2013 adjustedQ3 2023 three months end","value":391.0,"quarter":3,"year":2023,"value_standardized":-0.23569757}
+{"text":"CIBC Total - Net income (loss) \u2013 adjustedQ3 2023 three months end","value":1475.0,"quarter":3,"year":2023,"value_standardized":0.3498245932}
+{"text":"CIBC Total - Net income attributable to non-controlling interests \u2013 adjustedQ3 2023 three months end","value":10.0,"quarter":3,"year":2023,"value_standardized":-0.4414945665}
+{"text":"CIBC Total - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 three months end","value":1465.0,"quarter":3,"year":2023,"value_standardized":0.3444230973}
+{"text":"CIBC Total - Adjusted diluted EPS ($)Q3 2023 three months end","value":1.52,"quarter":3,"year":2023,"value_standardized":-0.4460750351}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenueQ3 2023 three months end","value":499.0,"quarter":3,"year":2023,"value_standardized":-0.1773614135}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit lossesQ3 2023 three months end","value":191.0,"quarter":3,"year":2023,"value_standardized":-0.3437274894}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expensesQ3 2023 three months end","value":258.0,"quarter":3,"year":2023,"value_standardized":-0.3075374664}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income (loss) before income taxesQ3 2023 three months end","value":50.0,"quarter":3,"year":2023,"value_standardized":-0.4198885826}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxesQ3 2023 three months end","value":-5.0,"quarter":3,"year":2023,"value_standardized":-0.4495968104}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net incomeQ3 2023 three months end","value":55.0,"quarter":3,"year":2023,"value_standardized":-0.4171878346}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) attributable to equity shareholdersQ3 2023 three months end","value":55.0,"quarter":3,"year":2023,"value_standardized":-0.4171878346}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":-10.0,"quarter":3,"year":2023,"value_standardized":-0.4522975584}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on non-interest expensesQ3 2023 three months end","value":-10.0,"quarter":3,"year":2023,"value_standardized":-0.4522975584}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total pre-tax impact of items of note on net incomeQ3 2023 three months end","value":10.0,"quarter":3,"year":2023,"value_standardized":-0.4414945665}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ3 2023 three months end","value":3.0,"quarter":3,"year":2023,"value_standardized":-0.4452756137}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on income taxesQ3 2023 three months end","value":3.0,"quarter":3,"year":2023,"value_standardized":-0.4452756137}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total after-tax impact of items of note on net incomeQ3 2023 three months end","value":7.0,"quarter":3,"year":2023,"value_standardized":-0.4431150153}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenue \u2013 adjusted (5)Q3 2023 three months end","value":499.0,"quarter":3,"year":2023,"value_standardized":-0.1773614135}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit losses \u2013 adjustedQ3 2023 three months end","value":191.0,"quarter":3,"year":2023,"value_standardized":-0.3437274894}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expenses \u2013 adjustedQ3 2023 three months end","value":248.0,"quarter":3,"year":2023,"value_standardized":-0.3129389624}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income (loss) before income taxes \u2013 adjustedQ3 2023 three months end","value":60.0,"quarter":3,"year":2023,"value_standardized":-0.4144870866}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxes \u2013 adjustedQ3 2023 three months end","value":-2.0,"quarter":3,"year":2023,"value_standardized":-0.4479763617}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) \u2013 adjustedQ3 2023 three months end","value":62.0,"quarter":3,"year":2023,"value_standardized":-0.4134067874}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 three months end","value":62.0,"quarter":3,"year":2023,"value_standardized":-0.4134067874}
+{"text":"CIBC Total - Commodity tax charge related to the retroactive impact of the 2023 Canadian Federal budgetQ3 2023 three months end","value":9.0,"quarter":3,"year":2023,"value_standardized":-0.4420347161}
+{"text":"Canadian Personal and Business Banking - Total revenueQ3 2024 nine months end","value":7571.0,"quarter":3,"year":2024,"value_standardized":3.6425765371}
+{"text":"Canadian Personal and Business Banking - Provision for credit lossesQ3 2024 nine months end","value":937.0,"quarter":3,"year":2024,"value_standardized":0.05922411}
+{"text":"Canadian Personal and Business Banking - Non-interest expensesQ3 2024 nine months end","value":3987.0,"quarter":3,"year":2024,"value_standardized":1.7066803811}
+{"text":"Canadian Personal and Business Banking - Income (loss) before income taxesQ3 2024 nine months end","value":2647.0,"quarter":3,"year":2024,"value_standardized":0.982879921}
+{"text":"Canadian Personal and Business Banking - Income taxesQ3 2024 nine months end","value":720.0,"quarter":3,"year":2024,"value_standardized":-0.0579883526}
+{"text":"Canadian Personal and Business Banking - Net incomeQ3 2024 nine months end","value":1927.0,"quarter":3,"year":2024,"value_standardized":0.5939722111}
+{"text":"Canadian Personal and Business Banking - Net income attributable to equity shareholdersQ3 2024 nine months end","value":1927.0,"quarter":3,"year":2024,"value_standardized":0.5939722111}
+{"text":"Canadian Personal and Business Banking - Amortization of acquisition-related intangible assetsQ3 2024 nine months end","value":-20.0,"quarter":3,"year":2024,"value_standardized":-0.4576990544}
+{"text":"Canadian Personal and Business Banking - Impact of items of note on non-interest expensesQ3 2024 nine months end","value":-20.0,"quarter":3,"year":2024,"value_standardized":-0.4576990544}
+{"text":"Canadian Personal and Business Banking - Total pre-tax impact of items of note on net incomeQ3 2024 nine months end","value":20.0,"quarter":3,"year":2024,"value_standardized":-0.4360930705}
+{"text":"Canadian Personal and Business Banking - Amortization of acquisition-related intangible assetsQ3 2024 nine months end","value":6.0,"quarter":3,"year":2024,"value_standardized":-0.4436551649}
+{"text":"Canadian Personal and Business Banking - Impact of items of note on income taxesQ3 2024 nine months end","value":6.0,"quarter":3,"year":2024,"value_standardized":-0.4436551649}
+{"text":"Canadian Personal and Business Banking - Total after-tax impact of items of note on net incomeQ3 2024 nine months end","value":14.0,"quarter":3,"year":2024,"value_standardized":-0.4393339681}
+{"text":"Canadian Personal and Business Banking - Total revenue \u2013 adjusted (5)Q3 2024 nine months end","value":7571.0,"quarter":3,"year":2024,"value_standardized":3.6425765371}
+{"text":"Canadian Personal and Business Banking - Provision for credit losses \u2013 adjustedQ3 2024 nine months end","value":937.0,"quarter":3,"year":2024,"value_standardized":0.05922411}
+{"text":"Canadian Personal and Business Banking - Non-interest expenses \u2013 adjustedQ3 2024 nine months end","value":3967.0,"quarter":3,"year":2024,"value_standardized":1.6958773892}
+{"text":"Canadian Personal and Business Banking - Income (loss) before income taxes \u2013 adjustedQ3 2024 nine months end","value":2667.0,"quarter":3,"year":2024,"value_standardized":0.993682913}
+{"text":"Canadian Personal and Business Banking - Income taxes \u2013 adjustedQ3 2024 nine months end","value":726.0,"quarter":3,"year":2024,"value_standardized":-0.054747455}
+{"text":"Canadian Personal and Business Banking - Net income \u2013 adjustedQ3 2024 nine months end","value":1941.0,"quarter":3,"year":2024,"value_standardized":0.6015343055}
+{"text":"Canadian Personal and Business Banking - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 nine months end","value":1941.0,"quarter":3,"year":2024,"value_standardized":0.6015343055}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenueQ3 2024 nine months end","value":4207.0,"quarter":3,"year":2024,"value_standardized":1.8255132925}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit lossesQ3 2024 nine months end","value":99.0,"quarter":3,"year":2024,"value_standardized":-0.3934212524}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expensesQ3 2024 nine months end","value":2151.0,"quarter":3,"year":2024,"value_standardized":0.7149657209}
+{"text":"Canadian Commercial Banking and Wealth Management - Income (loss) before income taxesQ3 2024 nine months end","value":1957.0,"quarter":3,"year":2024,"value_standardized":0.610176699}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxesQ3 2024 nine months end","value":535.0,"quarter":3,"year":2024,"value_standardized":-0.157916028}
+{"text":"Canadian Commercial Banking and Wealth Management - Net incomeQ3 2024 nine months end","value":1422.0,"quarter":3,"year":2024,"value_standardized":0.3211966646}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income attributable to equity shareholdersQ3 2024 nine months end","value":1422.0,"quarter":3,"year":2024,"value_standardized":0.3211966646}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q3 2024 nine months end","value":4207.0,"quarter":3,"year":2024,"value_standardized":1.8255132925}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ3 2024 nine months end","value":99.0,"quarter":3,"year":2024,"value_standardized":-0.3934212524}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ3 2024 nine months end","value":2151.0,"quarter":3,"year":2024,"value_standardized":0.7149657209}
+{"text":"Canadian Commercial Banking and Wealth Management - Income (loss) before income taxes \u2013 adjustedQ3 2024 nine months end","value":1957.0,"quarter":3,"year":2024,"value_standardized":0.610176699}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ3 2024 nine months end","value":535.0,"quarter":3,"year":2024,"value_standardized":-0.157916028}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income \u2013 adjustedQ3 2024 nine months end","value":1422.0,"quarter":3,"year":2024,"value_standardized":0.3211966646}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 nine months end","value":1422.0,"quarter":3,"year":2024,"value_standardized":0.3211966646}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenueQ3 2024 nine months end","value":2073.0,"quarter":3,"year":2024,"value_standardized":0.6728340523}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit lossesQ3 2024 nine months end","value":477.0,"quarter":3,"year":2024,"value_standardized":-0.1892447047}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expensesQ3 2024 nine months end","value":1290.0,"quarter":3,"year":2024,"value_standardized":0.2498969178}
+{"text":"U.S. Commercial Banking and Wealth Management - Income (loss) before income taxesQ3 2024 nine months end","value":306.0,"quarter":3,"year":2024,"value_standardized":-0.2816102858}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxesQ3 2024 nine months end","value":7.0,"quarter":3,"year":2024,"value_standardized":-0.4431150153}
+{"text":"U.S. Commercial Banking and Wealth Management - Net incomeQ3 2024 nine months end","value":299.0,"quarter":3,"year":2024,"value_standardized":-0.2853913329}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income attributable to equity shareholdersQ3 2024 nine months end","value":299.0,"quarter":3,"year":2024,"value_standardized":-0.2853913329}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ3 2024 nine months end","value":-24.0,"quarter":3,"year":2024,"value_standardized":-0.4598596528}
+{"text":"U.S. Commercial Banking and Wealth Management - Charge related to the special assessment imposed by the FDICQ3 2024 nine months end","value":-106.0,"quarter":3,"year":2024,"value_standardized":-0.5041519198}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on non-interest expensesQ3 2024 nine months end","value":-130.0,"quarter":3,"year":2024,"value_standardized":-0.5171155101}
+{"text":"U.S. Commercial Banking and Wealth Management - Total pre-tax impact of items of note on net incomeQ3 2024 nine months end","value":130.0,"quarter":3,"year":2024,"value_standardized":-0.3766766148}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ3 2024 nine months end","value":6.0,"quarter":3,"year":2024,"value_standardized":-0.4436551649}
+{"text":"U.S. Commercial Banking and Wealth Management - Charge related to the special assessment imposed by the FDICQ3 2024 nine months end","value":27.0,"quarter":3,"year":2024,"value_standardized":-0.4323120233}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on income taxesQ3 2024 nine months end","value":33.0,"quarter":3,"year":2024,"value_standardized":-0.4290711258}
+{"text":"U.S. Commercial Banking and Wealth Management - Total after-tax impact of items of note on net incomeQ3 2024 nine months end","value":97.0,"quarter":3,"year":2024,"value_standardized":-0.3945015515}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q3 2024 nine months end","value":2073.0,"quarter":3,"year":2024,"value_standardized":0.6728340523}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ3 2024 nine months end","value":477.0,"quarter":3,"year":2024,"value_standardized":-0.1892447047}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ3 2024 nine months end","value":1160.0,"quarter":3,"year":2024,"value_standardized":0.1796774702}
+{"text":"U.S. Commercial Banking and Wealth Management - Income (loss) before income taxes \u2013 adjustedQ3 2024 nine months end","value":436.0,"quarter":3,"year":2024,"value_standardized":-0.2113908381}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ3 2024 nine months end","value":40.0,"quarter":3,"year":2024,"value_standardized":-0.4252900786}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income \u2013 adjustedQ3 2024 nine months end","value":396.0,"quarter":3,"year":2024,"value_standardized":-0.232996822}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 nine months end","value":396.0,"quarter":3,"year":2024,"value_standardized":-0.232996822}
+{"text":"Corporate and Other - Total revenueQ3 2024 nine months end","value":741.0,"quarter":3,"year":2024,"value_standardized":-0.046645211}
+{"text":"Corporate and Other - Non-interest expensesQ3 2024 nine months end","value":1032.0,"quarter":3,"year":2024,"value_standardized":0.1105383217}
+{"text":"Corporate and Other - Income (loss) before income taxesQ3 2024 nine months end","value":-291.0,"quarter":3,"year":2024,"value_standardized":-0.6040795952}
+{"text":"Corporate and Other - Income taxesQ3 2024 nine months end","value":-355.0,"quarter":3,"year":2024,"value_standardized":-0.6386491694}
+{"text":"Corporate and Other - Net incomeQ3 2024 nine months end","value":64.0,"quarter":3,"year":2024,"value_standardized":-0.4123264883}
+{"text":"Corporate and Other - Net income attributable to non-controlling interestsQ3 2024 nine months end","value":31.0,"quarter":3,"year":2024,"value_standardized":-0.430151425}
+{"text":"Corporate and Other - Net income attributable to equity shareholdersQ3 2024 nine months end","value":33.0,"quarter":3,"year":2024,"value_standardized":-0.4290711258}
+{"text":"Corporate and Other - Total revenue \u2013 adjusted (5)Q3 2024 nine months end","value":741.0,"quarter":3,"year":2024,"value_standardized":-0.046645211}
+{"text":"Corporate and Other - Non-interest expenses \u2013 adjustedQ3 2024 nine months end","value":1032.0,"quarter":3,"year":2024,"value_standardized":0.1105383217}
+{"text":"Corporate and Other - Income (loss) before income taxes \u2013 adjustedQ3 2024 nine months end","value":-291.0,"quarter":3,"year":2024,"value_standardized":-0.6040795952}
+{"text":"Corporate and Other - Income taxes \u2013 adjustedQ3 2024 nine months end","value":-355.0,"quarter":3,"year":2024,"value_standardized":-0.6386491694}
+{"text":"Corporate and Other - Net income \u2013 adjustedQ3 2024 nine months end","value":64.0,"quarter":3,"year":2024,"value_standardized":-0.4123264883}
+{"text":"Corporate and Other - Net income attributable to non-controlling interests \u2013 adjustedQ3 2024 nine months end","value":31.0,"quarter":3,"year":2024,"value_standardized":-0.430151425}
+{"text":"Corporate and Other - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 nine months end","value":33.0,"quarter":3,"year":2024,"value_standardized":-0.4290711258}
+{"text":"CIBC Total - Total revenueQ3 2024 nine months end","value":18989.0,"quarter":3,"year":2024,"value_standardized":9.8100046365}
+{"text":"CIBC Total - Provision for credit lossesQ3 2024 nine months end","value":1582.0,"quarter":3,"year":2024,"value_standardized":0.4076206001}
+{"text":"CIBC Total - Non-interest expensesQ3 2024 nine months end","value":10648.0,"quarter":3,"year":2024,"value_standardized":5.3046168473}
+{"text":"CIBC Total - Income (loss) before income taxesQ3 2024 nine months end","value":6759.0,"quarter":3,"year":2024,"value_standardized":3.2039750642}
+{"text":"CIBC Total - Income taxesQ3 2024 nine months end","value":1487.0,"quarter":3,"year":2024,"value_standardized":0.3563063884}
+{"text":"CIBC Total - Net incomeQ3 2024 nine months end","value":5272.0,"quarter":3,"year":2024,"value_standardized":2.4007726134}
+{"text":"CIBC Total - Net income attributable to non-controlling interestsQ3 2024 nine months end","value":31.0,"quarter":3,"year":2024,"value_standardized":-0.430151425}
+{"text":"CIBC Total - Net income attributable to equity shareholdersQ3 2024 nine months end","value":5241.0,"quarter":3,"year":2024,"value_standardized":2.3840279758}
+{"text":"CIBC Total - Diluted EPS ($)Q3 2024 nine months end","value":5.38,"quarter":3,"year":2024,"value_standardized":-0.4439900576}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ3 2024 nine months end","value":-44.0,"quarter":3,"year":2024,"value_standardized":-0.4706626447}
+{"text":"CIBC Total - Charge related to the special assessment imposed by the FDICQ3 2024 nine months end","value":-106.0,"quarter":3,"year":2024,"value_standardized":-0.5041519198}
+{"text":"CIBC Total - Impact of items of note on non-interest expensesQ3 2024 nine months end","value":-150.0,"quarter":3,"year":2024,"value_standardized":-0.527918502}
+{"text":"CIBC Total - Total pre-tax impact of items of note on net incomeQ3 2024 nine months end","value":150.0,"quarter":3,"year":2024,"value_standardized":-0.3658736229}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ3 2024 nine months end","value":12.0,"quarter":3,"year":2024,"value_standardized":-0.4404142673}
+{"text":"CIBC Total - Charge related to the special assessment imposed by the FDICQ3 2024 nine months end","value":27.0,"quarter":3,"year":2024,"value_standardized":-0.4323120233}
+{"text":"CIBC Total - Impact of items of note on income taxesQ3 2024 nine months end","value":39.0,"quarter":3,"year":2024,"value_standardized":-0.4258302282}
+{"text":"CIBC Total - Total after-tax impact of items of note on net incomeQ3 2024 nine months end","value":111.0,"quarter":3,"year":2024,"value_standardized":-0.3869394572}
+{"text":"CIBC Total - Impact of items of note on diluted EPS ($) (3)Q3 2024 nine months end","value":0.12,"quarter":3,"year":2024,"value_standardized":-0.4468312445}
+{"text":"CIBC Total - Total revenue \u2013 adjusted (5)Q3 2024 nine months end","value":18989.0,"quarter":3,"year":2024,"value_standardized":9.8100046365}
+{"text":"CIBC Total - Provision for credit losses \u2013 adjustedQ3 2024 nine months end","value":1582.0,"quarter":3,"year":2024,"value_standardized":0.4076206001}
+{"text":"CIBC Total - Non-interest expenses \u2013 adjustedQ3 2024 nine months end","value":10498.0,"quarter":3,"year":2024,"value_standardized":5.2235944077}
+{"text":"CIBC Total - Income (loss) before income taxes \u2013 adjustedQ3 2024 nine months end","value":6909.0,"quarter":3,"year":2024,"value_standardized":3.2849975038}
+{"text":"CIBC Total - Income taxes \u2013 adjustedQ3 2024 nine months end","value":1526.0,"quarter":3,"year":2024,"value_standardized":0.3773722227}
+{"text":"CIBC Total - Net income \u2013 adjustedQ3 2024 nine months end","value":5383.0,"quarter":3,"year":2024,"value_standardized":2.4607292186}
+{"text":"CIBC Total - Net income attributable to non-controlling interests \u2013 adjustedQ3 2024 nine months end","value":31.0,"quarter":3,"year":2024,"value_standardized":-0.430151425}
+{"text":"CIBC Total - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 nine months end","value":5352.0,"quarter":3,"year":2024,"value_standardized":2.4439845811}
+{"text":"CIBC Total - Adjusted diluted EPS ($)Q3 2024 nine months end","value":5.5,"quarter":3,"year":2024,"value_standardized":-0.4439252397}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenueQ3 2024 nine months end","value":1526.0,"quarter":3,"year":2024,"value_standardized":0.3773722227}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit lossesQ3 2024 nine months end","value":351.0,"quarter":3,"year":2024,"value_standardized":-0.2573035539}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expensesQ3 2024 nine months end","value":950.0,"quarter":3,"year":2024,"value_standardized":0.0662460548}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income (loss) before income taxesQ3 2024 nine months end","value":225.0,"quarter":3,"year":2024,"value_standardized":-0.3253624031}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxesQ3 2024 nine months end","value":5.0,"quarter":3,"year":2024,"value_standardized":-0.4441953145}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net incomeQ3 2024 nine months end","value":220.0,"quarter":3,"year":2024,"value_standardized":-0.3280631511}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income attributable to equity shareholdersQ3 2024 nine months end","value":220.0,"quarter":3,"year":2024,"value_standardized":-0.3280631511}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ3 2024 nine months end","value":-18.0,"quarter":3,"year":2024,"value_standardized":-0.4566187552}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Charge related to the special assessment imposed by the FDICQ3 2024 nine months end","value":-79.0,"quarter":3,"year":2024,"value_standardized":-0.4895678806}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on non-interest expensesQ3 2024 nine months end","value":-97.0,"quarter":3,"year":2024,"value_standardized":-0.4992905734}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total pre-tax impact of items of note on net incomeQ3 2024 nine months end","value":97.0,"quarter":3,"year":2024,"value_standardized":-0.3945015515}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ3 2024 nine months end","value":5.0,"quarter":3,"year":2024,"value_standardized":-0.4441953145}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Charge related to the special assessment imposed by the FDICQ3 2024 nine months end","value":20.0,"quarter":3,"year":2024,"value_standardized":-0.4360930705}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on income taxesQ3 2024 nine months end","value":25.0,"quarter":3,"year":2024,"value_standardized":-0.4333923225}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total after-tax impact of items of note on net incomeQ3 2024 nine months end","value":72.0,"quarter":3,"year":2024,"value_standardized":-0.4080052915}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenue \u2013 adjusted (5)Q3 2024 nine months end","value":1526.0,"quarter":3,"year":2024,"value_standardized":0.3773722227}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit losses \u2013 adjustedQ3 2024 nine months end","value":351.0,"quarter":3,"year":2024,"value_standardized":-0.2573035539}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expenses \u2013 adjustedQ3 2024 nine months end","value":853.0,"quarter":3,"year":2024,"value_standardized":0.0138515438}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income (loss) before income taxes \u2013 adjustedQ3 2024 nine months end","value":322.0,"quarter":3,"year":2024,"value_standardized":-0.2729678922}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxes \u2013 adjustedQ3 2024 nine months end","value":30.0,"quarter":3,"year":2024,"value_standardized":-0.4306915746}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income \u2013 adjustedQ3 2024 nine months end","value":292.0,"quarter":3,"year":2024,"value_standardized":-0.2891723801}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 nine months end","value":292.0,"quarter":3,"year":2024,"value_standardized":-0.2891723801}
+{"text":"Capital Markets and Direct Financial Services - Total revenueQ3 2024 nine months end","value":4397.0,"quarter":3,"year":2024,"value_standardized":1.9281417159}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit lossesQ3 2024 nine months end","value":69.0,"quarter":3,"year":2024,"value_standardized":-0.4096257403}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expensesQ3 2024 nine months end","value":2188.0,"quarter":3,"year":2024,"value_standardized":0.734951256}
+{"text":"Capital Markets and Direct Financial Services - Income (loss) before income taxesQ3 2024 nine months end","value":2140.0,"quarter":3,"year":2024,"value_standardized":0.7090240753}
+{"text":"Capital Markets and Direct Financial Services - Income taxesQ3 2024 nine months end","value":580.0,"quarter":3,"year":2024,"value_standardized":-0.1336092962}
+{"text":"Capital Markets and Direct Financial Services - Net incomeQ3 2024 nine months end","value":1560.0,"quarter":3,"year":2024,"value_standardized":0.395737309}
+{"text":"Capital Markets and Direct Financial Services - Net income attributable to equity shareholdersQ3 2024 nine months end","value":1560.0,"quarter":3,"year":2024,"value_standardized":0.395737309}
+{"text":"Capital Markets and Direct Financial Services - Total revenue \u2013 adjusted (5)Q3 2024 nine months end","value":4397.0,"quarter":3,"year":2024,"value_standardized":1.9281417159}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit losses \u2013 adjustedQ3 2024 nine months end","value":69.0,"quarter":3,"year":2024,"value_standardized":-0.4096257403}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expenses \u2013 adjustedQ3 2024 nine months end","value":2188.0,"quarter":3,"year":2024,"value_standardized":0.734951256}
+{"text":"Capital Markets and Direct Financial Services - Income (loss) before income taxes \u2013 adjustedQ3 2024 nine months end","value":2140.0,"quarter":3,"year":2024,"value_standardized":0.7090240753}
+{"text":"Capital Markets and Direct Financial Services - Income taxes \u2013 adjustedQ3 2024 nine months end","value":580.0,"quarter":3,"year":2024,"value_standardized":-0.1336092962}
+{"text":"Capital Markets and Direct Financial Services - Net income \u2013 adjustedQ3 2024 nine months end","value":1560.0,"quarter":3,"year":2024,"value_standardized":0.395737309}
+{"text":"Capital Markets and Direct Financial Services - Net income attributable to equity shareholders \u2013 adjustedQ3 2024 nine months end","value":1560.0,"quarter":3,"year":2024,"value_standardized":0.395737309}
+{"text":"Canadian Personal and Business Banking(6) - Total revenueQ3 2023 nine months end","value":6958.0,"quarter":3,"year":2023,"value_standardized":3.311464834}
+{"text":"Canadian Personal and Business Banking(6) - Provision for credit lossesQ3 2023 nine months end","value":704.0,"quarter":3,"year":2023,"value_standardized":-0.0666307461}
+{"text":"Canadian Personal and Business Banking(6) - Non-interest expensesQ3 2023 nine months end","value":3867.0,"quarter":3,"year":2023,"value_standardized":1.6418624295}
+{"text":"Canadian Personal and Business Banking(6) - Income (loss) before income taxesQ3 2023 nine months end","value":2387.0,"quarter":3,"year":2023,"value_standardized":0.8424410258}
+{"text":"Canadian Personal and Business Banking(6) - Income taxesQ3 2023 nine months end","value":660.0,"quarter":3,"year":2023,"value_standardized":-0.0903973284}
+{"text":"Canadian Personal and Business Banking(6) - Net income (loss)Q3 2023 nine months end","value":1727.0,"quarter":3,"year":2023,"value_standardized":0.4859422917}
+{"text":"Canadian Personal and Business Banking(6) - Net income (loss) attributable to equity shareholdersQ3 2023 nine months end","value":1727.0,"quarter":3,"year":2023,"value_standardized":0.4859422917}
+{"text":"Canadian Personal and Business Banking(6) - Canadian Federal budgetQ3 2023 nine months end","value":34.0,"quarter":3,"year":2023,"value_standardized":-0.4285309762}
+{"text":"Canadian Personal and Business Banking(6) - Impact of items of note on revenueQ3 2023 nine months end","value":34.0,"quarter":3,"year":2023,"value_standardized":-0.4285309762}
+{"text":"Canadian Personal and Business Banking(6) - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":-20.0,"quarter":3,"year":2023,"value_standardized":-0.4576990544}
+{"text":"Canadian Personal and Business Banking(6) - Impact of items of note on non-interest expensesQ3 2023 nine months end","value":-20.0,"quarter":3,"year":2023,"value_standardized":-0.4576990544}
+{"text":"Canadian Personal and Business Banking(6) - Total pre-tax impact of items of note on net incomeQ3 2023 nine months end","value":54.0,"quarter":3,"year":2023,"value_standardized":-0.4177279842}
+{"text":"Canadian Personal and Business Banking(6) - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":4.0,"quarter":3,"year":2023,"value_standardized":-0.4447354641}
+{"text":"Canadian Personal and Business Banking(6) - Canadian Federal budgetQ3 2023 nine months end","value":9.0,"quarter":3,"year":2023,"value_standardized":-0.4420347161}
+{"text":"Canadian Personal and Business Banking(6) - Impact of items of note on income taxesQ3 2023 nine months end","value":13.0,"quarter":3,"year":2023,"value_standardized":-0.4398741177}
+{"text":"Canadian Personal and Business Banking(6) - Total after-tax impact of items of note on net incomeQ3 2023 nine months end","value":41.0,"quarter":3,"year":2023,"value_standardized":-0.424749929}
+{"text":"Canadian Personal and Business Banking(6) - Total revenue \u2013 adjusted (5)Q3 2023 nine months end","value":6992.0,"quarter":3,"year":2023,"value_standardized":3.3298299203}
+{"text":"Canadian Personal and Business Banking(6) - Provision for credit losses \u2013 adjustedQ3 2023 nine months end","value":704.0,"quarter":3,"year":2023,"value_standardized":-0.0666307461}
+{"text":"Canadian Personal and Business Banking(6) - Non-interest expenses \u2013 adjustedQ3 2023 nine months end","value":3847.0,"quarter":3,"year":2023,"value_standardized":1.6310594375}
+{"text":"Canadian Personal and Business Banking(6) - Income (loss) before income taxes \u2013 adjustedQ3 2023 nine months end","value":2441.0,"quarter":3,"year":2023,"value_standardized":0.871609104}
+{"text":"Canadian Personal and Business Banking(6) - Income taxes \u2013 adjustedQ3 2023 nine months end","value":673.0,"quarter":3,"year":2023,"value_standardized":-0.0833753836}
+{"text":"Canadian Personal and Business Banking(6) - Net income (loss) \u2013 adjustedQ3 2023 nine months end","value":1768.0,"quarter":3,"year":2023,"value_standardized":0.5080884252}
+{"text":"Canadian Personal and Business Banking(6) - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 nine months end","value":1768.0,"quarter":3,"year":2023,"value_standardized":0.5080884252}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenueQ3 2023 nine months end","value":4037.0,"quarter":3,"year":2023,"value_standardized":1.733687861}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit lossesQ3 2023 nine months end","value":132.0,"quarter":3,"year":2023,"value_standardized":-0.3755963156}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expensesQ3 2023 nine months end","value":2012.0,"quarter":3,"year":2023,"value_standardized":0.6398849269}
+{"text":"Canadian Commercial Banking and Wealth Management - Income (loss) before income taxesQ3 2023 nine months end","value":1893.0,"quarter":3,"year":2023,"value_standardized":0.5756071248}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxesQ3 2023 nine months end","value":505.0,"quarter":3,"year":2023,"value_standardized":-0.1741205159}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss)Q3 2023 nine months end","value":1388.0,"quarter":3,"year":2023,"value_standardized":0.3028315783}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholdersQ3 2023 nine months end","value":1388.0,"quarter":3,"year":2023,"value_standardized":0.3028315783}
+{"text":"Canadian Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q3 2023 nine months end","value":4037.0,"quarter":3,"year":2023,"value_standardized":1.733687861}
+{"text":"Canadian Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ3 2023 nine months end","value":132.0,"quarter":3,"year":2023,"value_standardized":-0.3755963156}
+{"text":"Canadian Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ3 2023 nine months end","value":2012.0,"quarter":3,"year":2023,"value_standardized":0.6398849269}
+{"text":"Canadian Commercial Banking and Wealth Management - Income (loss) before income taxes \u2013 adjustedQ3 2023 nine months end","value":1893.0,"quarter":3,"year":2023,"value_standardized":0.5756071248}
+{"text":"Canadian Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ3 2023 nine months end","value":505.0,"quarter":3,"year":2023,"value_standardized":-0.1741205159}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) \u2013 adjustedQ3 2023 nine months end","value":1388.0,"quarter":3,"year":2023,"value_standardized":0.3028315783}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 nine months end","value":1388.0,"quarter":3,"year":2023,"value_standardized":0.3028315783}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenueQ3 2023 nine months end","value":2020.0,"quarter":3,"year":2023,"value_standardized":0.6442061236}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit lossesQ3 2023 nine months end","value":601.0,"quarter":3,"year":2023,"value_standardized":-0.1222661546}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expensesQ3 2023 nine months end","value":1079.0,"quarter":3,"year":2023,"value_standardized":0.1359253528}
+{"text":"U.S. Commercial Banking and Wealth Management - Income (loss) before income taxesQ3 2023 nine months end","value":340.0,"quarter":3,"year":2023,"value_standardized":-0.2632451995}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxesQ3 2023 nine months end","value":11.0,"quarter":3,"year":2023,"value_standardized":-0.4409544169}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss)Q3 2023 nine months end","value":329.0,"quarter":3,"year":2023,"value_standardized":-0.269186845}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholdersQ3 2023 nine months end","value":329.0,"quarter":3,"year":2023,"value_standardized":-0.269186845}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":-47.0,"quarter":3,"year":2023,"value_standardized":-0.4722830935}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on non-interest expensesQ3 2023 nine months end","value":-47.0,"quarter":3,"year":2023,"value_standardized":-0.4722830935}
+{"text":"U.S. Commercial Banking and Wealth Management - Total pre-tax impact of items of note on net incomeQ3 2023 nine months end","value":47.0,"quarter":3,"year":2023,"value_standardized":-0.4215090314}
+{"text":"U.S. Commercial Banking and Wealth Management - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":12.0,"quarter":3,"year":2023,"value_standardized":-0.4404142673}
+{"text":"U.S. Commercial Banking and Wealth Management - Impact of items of note on income taxesQ3 2023 nine months end","value":12.0,"quarter":3,"year":2023,"value_standardized":-0.4404142673}
+{"text":"U.S. Commercial Banking and Wealth Management - Total after-tax impact of items of note on net incomeQ3 2023 nine months end","value":35.0,"quarter":3,"year":2023,"value_standardized":-0.4279908266}
+{"text":"U.S. Commercial Banking and Wealth Management - Total revenue \u2013 adjusted (5)Q3 2023 nine months end","value":2020.0,"quarter":3,"year":2023,"value_standardized":0.6442061236}
+{"text":"U.S. Commercial Banking and Wealth Management - Provision for credit losses \u2013 adjustedQ3 2023 nine months end","value":601.0,"quarter":3,"year":2023,"value_standardized":-0.1222661546}
+{"text":"U.S. Commercial Banking and Wealth Management - Non-interest expenses \u2013 adjustedQ3 2023 nine months end","value":1032.0,"quarter":3,"year":2023,"value_standardized":0.1105383217}
+{"text":"U.S. Commercial Banking and Wealth Management - Income (loss) before income taxes \u2013 adjustedQ3 2023 nine months end","value":387.0,"quarter":3,"year":2023,"value_standardized":-0.2378581684}
+{"text":"U.S. Commercial Banking and Wealth Management - Income taxes \u2013 adjustedQ3 2023 nine months end","value":23.0,"quarter":3,"year":2023,"value_standardized":-0.4344726217}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) \u2013 adjustedQ3 2023 nine months end","value":364.0,"quarter":3,"year":2023,"value_standardized":-0.2502816091}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 nine months end","value":364.0,"quarter":3,"year":2023,"value_standardized":-0.2502816091}
+{"text":"Capital Markets and Direct Financial Services - Total revenueQ3 2023 nine months end","value":4198.0,"quarter":3,"year":2023,"value_standardized":1.8206519461}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit lossesQ3 2023 nine months end","value":15.0,"quarter":3,"year":2023,"value_standardized":-0.4387938185}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expensesQ3 2023 nine months end","value":1987.0,"quarter":3,"year":2023,"value_standardized":0.6263811869}
+{"text":"Capital Markets and Direct Financial Services - Income (loss) before income taxesQ3 2023 nine months end","value":2196.0,"quarter":3,"year":2023,"value_standardized":0.7392724527}
+{"text":"Capital Markets and Direct Financial Services - Income taxesQ3 2023 nine months end","value":593.0,"quarter":3,"year":2023,"value_standardized":-0.1265873514}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss)Q3 2023 nine months end","value":1603.0,"quarter":3,"year":2023,"value_standardized":0.4189637417}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) attributable to equity shareholdersQ3 2023 nine months end","value":1603.0,"quarter":3,"year":2023,"value_standardized":0.4189637417}
+{"text":"Capital Markets and Direct Financial Services - Total revenue \u2013 adjusted (5)Q3 2023 nine months end","value":4198.0,"quarter":3,"year":2023,"value_standardized":1.8206519461}
+{"text":"Capital Markets and Direct Financial Services - Provision for credit losses \u2013 adjustedQ3 2023 nine months end","value":15.0,"quarter":3,"year":2023,"value_standardized":-0.4387938185}
+{"text":"Capital Markets and Direct Financial Services - Non-interest expenses \u2013 adjustedQ3 2023 nine months end","value":1987.0,"quarter":3,"year":2023,"value_standardized":0.6263811869}
+{"text":"Capital Markets and Direct Financial Services - Income (loss) before income taxes \u2013 adjustedQ3 2023 nine months end","value":2196.0,"quarter":3,"year":2023,"value_standardized":0.7392724527}
+{"text":"Capital Markets and Direct Financial Services - Income taxes \u2013 adjustedQ3 2023 nine months end","value":593.0,"quarter":3,"year":2023,"value_standardized":-0.1265873514}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) \u2013 adjustedQ3 2023 nine months end","value":1603.0,"quarter":3,"year":2023,"value_standardized":0.4189637417}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 nine months end","value":1603.0,"quarter":3,"year":2023,"value_standardized":0.4189637417}
+{"text":"Corporate and Other - Total revenueQ3 2023 nine months end","value":272.0,"quarter":3,"year":2023,"value_standardized":-0.2999753721}
+{"text":"Corporate and Other - Provision for credit lossesQ3 2023 nine months end","value":17.0,"quarter":3,"year":2023,"value_standardized":-0.4377135193}
+{"text":"Corporate and Other - Non-interest expensesQ3 2023 nine months end","value":1964.0,"quarter":3,"year":2023,"value_standardized":0.6139577462}
+{"text":"Corporate and Other - Income (loss) before income taxesQ3 2023 nine months end","value":-1709.0,"quarter":3,"year":2023,"value_standardized":-1.3700117239}
+{"text":"Corporate and Other - Income taxesQ3 2023 nine months end","value":-216.0,"quarter":3,"year":2023,"value_standardized":-0.5635683754}
+{"text":"Corporate and Other - Net income (loss)Q3 2023 nine months end","value":-1493.0,"quarter":3,"year":2023,"value_standardized":-1.2533394109}
+{"text":"Corporate and Other - Net income attributable to non-controlling interestsQ3 2023 nine months end","value":30.0,"quarter":3,"year":2023,"value_standardized":-0.4306915746}
+{"text":"Corporate and Other - Net income (loss) attributable to equity shareholdersQ3 2023 nine months end","value":-1523.0,"quarter":3,"year":2023,"value_standardized":-1.2695438988}
+{"text":"Corporate and Other - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":-9.0,"quarter":3,"year":2023,"value_standardized":-0.4517574088}
+{"text":"Corporate and Other - Increase in legal provisions (7)Q3 2023 nine months end","value":-1055.0,"quarter":3,"year":2023,"value_standardized":-1.0167538874}
+{"text":"Corporate and Other - Impact of items of note on non-interest expensesQ3 2023 nine months end","value":-1064.0,"quarter":3,"year":2023,"value_standardized":-1.0216152338}
+{"text":"Corporate and Other - Total pre-tax impact of items of note on net incomeQ3 2023 nine months end","value":1064.0,"quarter":3,"year":2023,"value_standardized":0.1278231088}
+{"text":"Corporate and Other - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":1.0,"quarter":3,"year":2023,"value_standardized":-0.4463559129}
+{"text":"Corporate and Other - Increase in legal provisions (7)Q3 2023 nine months end","value":293.0,"quarter":3,"year":2023,"value_standardized":-0.2886322305}
+{"text":"Corporate and Other - Income tax charge related to the 2022 Canadian Federal budget (8)Q3 2023 nine months end","value":-545.0,"quarter":3,"year":2022,"value_standardized":-0.7412775929}
+{"text":"Corporate and Other - Impact of items of note on income taxesQ3 2023 nine months end","value":-251.0,"quarter":3,"year":2023,"value_standardized":-0.5824736113}
+{"text":"Corporate and Other - Total after-tax impact of items of note on net incomeQ3 2023 nine months end","value":1315.0,"quarter":3,"year":2023,"value_standardized":0.2634006577}
+{"text":"Corporate and Other - Total revenue \u2013 adjusted (5)Q3 2023 nine months end","value":272.0,"quarter":3,"year":2023,"value_standardized":-0.2999753721}
+{"text":"Corporate and Other - Provision for credit losses \u2013 adjustedQ3 2023 nine months end","value":17.0,"quarter":3,"year":2023,"value_standardized":-0.4377135193}
+{"text":"Corporate and Other - Non-interest expenses \u2013 adjustedQ3 2023 nine months end","value":900.0,"quarter":3,"year":2023,"value_standardized":0.0392385749}
+{"text":"Corporate and Other - Income (loss) before income taxes \u2013 adjustedQ3 2023 nine months end","value":-645.0,"quarter":3,"year":2023,"value_standardized":-0.7952925526}
+{"text":"Corporate and Other - Income taxes \u2013 adjustedQ3 2023 nine months end","value":-467.0,"quarter":3,"year":2023,"value_standardized":-0.6991459243}
+{"text":"Corporate and Other - Net income (loss) \u2013 adjustedQ3 2023 nine months end","value":-178.0,"quarter":3,"year":2023,"value_standardized":-0.5430426907}
+{"text":"Corporate and Other - Net income attributable to non-controlling interests \u2013 adjustedQ3 2023 nine months end","value":30.0,"quarter":3,"year":2023,"value_standardized":-0.4306915746}
+{"text":"Corporate and Other - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 nine months end","value":-208.0,"quarter":3,"year":2023,"value_standardized":-0.5592471787}
+{"text":"CIBC Total - Total revenueQ3 2023 nine months end","value":17485.0,"quarter":3,"year":2023,"value_standardized":8.9976196425}
+{"text":"CIBC Total - Provision for credit lossesQ3 2023 nine months end","value":1469.0,"quarter":3,"year":2023,"value_standardized":0.3465836957}
+{"text":"CIBC Total - Non-interest expensesQ3 2023 nine months end","value":10909.0,"quarter":3,"year":2023,"value_standardized":5.4455958921}
+{"text":"CIBC Total - Income (loss) before income taxesQ3 2023 nine months end","value":5107.0,"quarter":3,"year":2023,"value_standardized":2.3116479298}
+{"text":"CIBC Total - Income taxesQ3 2023 nine months end","value":1553.0,"quarter":3,"year":2023,"value_standardized":0.3919562618}
+{"text":"CIBC Total - Net income (loss)Q3 2023 nine months end","value":3554.0,"quarter":3,"year":2023,"value_standardized":1.4727956056}
+{"text":"CIBC Total - Net income attributable to non-controlling interestsQ3 2023 nine months end","value":30.0,"quarter":3,"year":2023,"value_standardized":-0.4306915746}
+{"text":"CIBC Total - Net income (loss) attributable to equity shareholdersQ3 2023 nine months end","value":3524.0,"quarter":3,"year":2023,"value_standardized":1.4565911177}
+{"text":"CIBC Total - Diluted EPS ($)Q3 2023 nine months end","value":3.63,"quarter":3,"year":2023,"value_standardized":-0.4449353194}
+{"text":"CIBC Total - Impact of items of note on revenueQ3 2023 nine months end","value":34.0,"quarter":3,"year":2023,"value_standardized":-0.4285309762}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":-76.0,"quarter":3,"year":2023,"value_standardized":-0.4879474318}
+{"text":"CIBC Total - Increase in legal provisions (7)Q3 2023 nine months end","value":-1055.0,"quarter":3,"year":2023,"value_standardized":-1.0167538874}
+{"text":"CIBC Total - Impact of items of note on non-interest expensesQ3 2023 nine months end","value":-1131.0,"quarter":3,"year":2023,"value_standardized":-1.0578052568}
+{"text":"CIBC Total - Total pre-tax impact of items of note on net incomeQ3 2023 nine months end","value":1165.0,"quarter":3,"year":2023,"value_standardized":0.1823782181}
+{"text":"CIBC Total - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":17.0,"quarter":3,"year":2023,"value_standardized":-0.4377135193}
+{"text":"CIBC Total - Increase in legal provisions (7)Q3 2023 nine months end","value":293.0,"quarter":3,"year":2023,"value_standardized":-0.2886322305}
+{"text":"CIBC Total - Income tax charge related to the 2022 Canadian Federal budget (8)Q3 2023 nine months end","value":-545.0,"quarter":3,"year":2022,"value_standardized":-0.7412775929}
+{"text":"CIBC Total - Impact of items of note on income taxesQ3 2023 nine months end","value":-226.0,"quarter":3,"year":2023,"value_standardized":-0.5689698714}
+{"text":"CIBC Total - Total after-tax impact of items of note on net incomeQ3 2023 nine months end","value":1391.0,"quarter":3,"year":2023,"value_standardized":0.3044520271}
+{"text":"CIBC Total - Impact of items of note on diluted EPS ($) (3)Q3 2023 nine months end","value":1.53,"quarter":3,"year":2023,"value_standardized":-0.4460696336}
+{"text":"CIBC Total - Total revenue \u2013 adjusted (5)Q3 2023 nine months end","value":17519.0,"quarter":3,"year":2023,"value_standardized":9.0159847288}
+{"text":"CIBC Total - Provision for credit losses \u2013 adjustedQ3 2023 nine months end","value":1469.0,"quarter":3,"year":2023,"value_standardized":0.3465836957}
+{"text":"CIBC Total - Non-interest expenses \u2013 adjustedQ3 2023 nine months end","value":9778.0,"quarter":3,"year":2023,"value_standardized":4.8346866978}
+{"text":"CIBC Total - Income (loss) before income taxes \u2013 adjustedQ3 2023 nine months end","value":6272.0,"quarter":3,"year":2023,"value_standardized":2.9409222104}
+{"text":"CIBC Total - Income taxes \u2013 adjustedQ3 2023 nine months end","value":1327.0,"quarter":3,"year":2023,"value_standardized":0.2698824529}
+{"text":"CIBC Total - Net income (loss) \u2013 adjustedQ3 2023 nine months end","value":4945.0,"quarter":3,"year":2023,"value_standardized":2.2241436951}
+{"text":"CIBC Total - Net income attributable to non-controlling interests \u2013 adjustedQ3 2023 nine months end","value":30.0,"quarter":3,"year":2023,"value_standardized":-0.4306915746}
+{"text":"CIBC Total - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 nine months end","value":4915.0,"quarter":3,"year":2023,"value_standardized":2.2079392072}
+{"text":"CIBC Total - Adjusted diluted EPS ($)Q3 2023 nine months end","value":5.16,"quarter":3,"year":2023,"value_standardized":-0.4441088905}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenueQ3 2023 nine months end","value":1502.0,"quarter":3,"year":2023,"value_standardized":0.3644086324}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit lossesQ3 2023 nine months end","value":447.0,"quarter":3,"year":2023,"value_standardized":-0.2054491926}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expensesQ3 2023 nine months end","value":802.0,"quarter":3,"year":2023,"value_standardized":-0.0136960856}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income (loss) before income taxesQ3 2023 nine months end","value":253.0,"quarter":3,"year":2023,"value_standardized":-0.3102382144}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxesQ3 2023 nine months end","value":8.0,"quarter":3,"year":2023,"value_standardized":-0.4425748657}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss)Q3 2023 nine months end","value":245.0,"quarter":3,"year":2023,"value_standardized":-0.3145594112}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) attributable to equity shareholdersQ3 2023 nine months end","value":245.0,"quarter":3,"year":2023,"value_standardized":-0.3145594112}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":-35.0,"quarter":3,"year":2023,"value_standardized":-0.4658012984}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on non-interest expensesQ3 2023 nine months end","value":-35.0,"quarter":3,"year":2023,"value_standardized":-0.4658012984}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total pre-tax impact of items of note on net incomeQ3 2023 nine months end","value":35.0,"quarter":3,"year":2023,"value_standardized":-0.4279908266}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Amortization of acquisition-related intangible assetsQ3 2023 nine months end","value":9.0,"quarter":3,"year":2023,"value_standardized":-0.4420347161}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Impact of items of note on income taxesQ3 2023 nine months end","value":9.0,"quarter":3,"year":2023,"value_standardized":-0.4420347161}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total after-tax impact of items of note on net incomeQ3 2023 nine months end","value":26.0,"quarter":3,"year":2023,"value_standardized":-0.4328521729}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Total revenue \u2013 adjusted (5)Q3 2023 nine months end","value":1502.0,"quarter":3,"year":2023,"value_standardized":0.3644086324}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Provision for credit losses \u2013 adjustedQ3 2023 nine months end","value":447.0,"quarter":3,"year":2023,"value_standardized":-0.2054491926}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Non-interest expenses \u2013 adjustedQ3 2023 nine months end","value":767.0,"quarter":3,"year":2023,"value_standardized":-0.0326013215}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income (loss) before income taxes \u2013 adjustedQ3 2023 nine months end","value":288.0,"quarter":3,"year":2023,"value_standardized":-0.2913329785}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Income taxes \u2013 adjustedQ3 2023 nine months end","value":17.0,"quarter":3,"year":2023,"value_standardized":-0.4377135193}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) \u2013 adjustedQ3 2023 nine months end","value":271.0,"quarter":3,"year":2023,"value_standardized":-0.3005155217}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) attributable to equity shareholders \u2013 adjustedQ3 2023 nine months end","value":271.0,"quarter":3,"year":2023,"value_standardized":-0.3005155217}
+{"text":"Canadian Personal and Business Banking - Net income - Q3 2024","value":628.0,"quarter":3,"year":2024,"value_standardized":-0.1076821155}
+{"text":"Canadian Personal and Business Banking - Add: provision for credit losses - Q3 2024","value":338.0,"quarter":3,"year":2024,"value_standardized":-0.2643254986}
+{"text":"Canadian Personal and Business Banking - Add: income taxes - Q3 2024","value":244.0,"quarter":3,"year":2024,"value_standardized":-0.3150995608}
+{"text":"Canadian Personal and Business Banking - Pre-provision, pre-tax earnings (1) - Q3 2024","value":1210.0,"quarter":3,"year":2024,"value_standardized":0.20668495}
+{"text":"Canadian Personal and Business Banking - Pre-tax impact of items of note (2) - Q3 2024","value":7.0,"quarter":3,"year":2024,"value_standardized":-0.4431150153}
+{"text":"Canadian Personal and Business Banking - Adjusted pre-provision, pre-tax earnings (3) - Q3 2024","value":1217.0,"quarter":3,"year":2024,"value_standardized":0.2104659972}
+{"text":"Canadian Personal and Business Banking - Net income (loss) - Q2 2024","value":649.0,"quarter":2,"year":2024,"value_standardized":-0.096338974}
+{"text":"Canadian Personal and Business Banking - Add: provision for credit losses - Q2 2024","value":270.0,"quarter":2,"year":2024,"value_standardized":-0.3010556713}
+{"text":"Canadian Personal and Business Banking - Add: income taxes - Q2 2024","value":238.0,"quarter":2,"year":2024,"value_standardized":-0.3183404584}
+{"text":"Canadian Personal and Business Banking - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q2 2024","value":1157.0,"quarter":2,"year":2024,"value_standardized":0.1780570214}
+{"text":"Canadian Personal and Business Banking - Pre-tax impact of items of note (2) - Q2 2024","value":6.0,"quarter":2,"year":2024,"value_standardized":-0.4436551649}
+{"text":"Canadian Personal and Business Banking - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q2 2024","value":1163.0,"quarter":2,"year":2024,"value_standardized":0.1812979189}
+{"text":"Canadian Personal and Business Banking - Net income (loss) - Q3 2023","value":499.0,"quarter":3,"year":2023,"value_standardized":-0.1773614135}
+{"text":"Canadian Personal and Business Banking - (4) Add: provision for credit losses - Q3 2023","value":423.0,"quarter":3,"year":2023,"value_standardized":-0.2184127829}
+{"text":"Canadian Personal and Business Banking - Add: income taxes - Q3 2023","value":189.0,"quarter":3,"year":2023,"value_standardized":-0.3448077886}
+{"text":"Canadian Personal and Business Banking - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":1111.0,"quarter":3,"year":2023,"value_standardized":0.1532101399}
+{"text":"Canadian Personal and Business Banking - Pre-tax impact of items of note (2) - Q3 2023","value":41.0,"quarter":3,"year":2023,"value_standardized":-0.424749929}
+{"text":"Canadian Personal and Business Banking - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":1152.0,"quarter":3,"year":2023,"value_standardized":0.1753562734}
+{"text":"Canadian Personal and Business Banking - Net income - Q3 2024","value":1927.0,"quarter":3,"year":2024,"value_standardized":0.5939722111}
+{"text":"Canadian Personal and Business Banking - Add: provision for credit losses - Q3 2024","value":937.0,"quarter":3,"year":2024,"value_standardized":0.05922411}
+{"text":"Canadian Personal and Business Banking - Add: income taxes - Q3 2024","value":720.0,"quarter":3,"year":2024,"value_standardized":-0.0579883526}
+{"text":"Canadian Personal and Business Banking - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2024","value":3584.0,"quarter":3,"year":2024,"value_standardized":1.4890000935}
+{"text":"Canadian Personal and Business Banking - Pre-tax impact of items of note (2) - Q3 2024","value":20.0,"quarter":3,"year":2024,"value_standardized":-0.4360930705}
+{"text":"Canadian Personal and Business Banking - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2024","value":3604.0,"quarter":3,"year":2024,"value_standardized":1.4998030854}
+{"text":"Canadian Personal and Business Banking - Net income (loss) - Q3 2023","value":1727.0,"quarter":3,"year":2023,"value_standardized":0.4859422917}
+{"text":"Canadian Personal and Business Banking - (4) Add: provision for credit losses - Q3 2023","value":704.0,"quarter":3,"year":2023,"value_standardized":-0.0666307461}
+{"text":"Canadian Personal and Business Banking - Add: income taxes - Q3 2023","value":660.0,"quarter":3,"year":2023,"value_standardized":-0.0903973284}
+{"text":"Canadian Personal and Business Banking - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":3091.0,"quarter":3,"year":2023,"value_standardized":1.2227063421}
+{"text":"Canadian Personal and Business Banking - Pre-tax impact of items of note (2) - Q3 2023","value":54.0,"quarter":3,"year":2023,"value_standardized":-0.4177279842}
+{"text":"Canadian Personal and Business Banking - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":3145.0,"quarter":3,"year":2023,"value_standardized":1.2518744204}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income - Q3 2024","value":468.0,"quarter":3,"year":2024,"value_standardized":-0.194106051}
+{"text":"Canadian Commercial Banking and Wealth Management - Add: provision for credit losses - Q3 2024","value":42.0,"quarter":3,"year":2024,"value_standardized":-0.4242097794}
+{"text":"Canadian Commercial Banking and Wealth Management - Add: income taxes - Q3 2024","value":177.0,"quarter":3,"year":2024,"value_standardized":-0.3512895838}
+{"text":"Canadian Commercial Banking and Wealth Management - Pre-provision, pre-tax earnings (1) - Q3 2024","value":687.0,"quarter":3,"year":2024,"value_standardized":-0.0758132893}
+{"text":"Canadian Commercial Banking and Wealth Management - Adjusted pre-provision, pre-tax earnings (3) - Q3 2024","value":687.0,"quarter":3,"year":2024,"value_standardized":-0.0758132893}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) - Q2 2024","value":456.0,"quarter":2,"year":2024,"value_standardized":-0.2005878462}
+{"text":"Canadian Commercial Banking and Wealth Management - Add: provision for credit losses - Q2 2024","value":37.0,"quarter":2,"year":2024,"value_standardized":-0.4269105274}
+{"text":"Canadian Commercial Banking and Wealth Management - Add: income taxes - Q2 2024","value":171.0,"quarter":2,"year":2024,"value_standardized":-0.3545304814}
+{"text":"Canadian Commercial Banking and Wealth Management - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q2 2024","value":664.0,"quarter":2,"year":2024,"value_standardized":-0.08823673}
+{"text":"Canadian Commercial Banking and Wealth Management - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q2 2024","value":664.0,"quarter":2,"year":2024,"value_standardized":-0.08823673}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) - Q3 2023","value":467.0,"quarter":3,"year":2023,"value_standardized":-0.1946462006}
+{"text":"Canadian Commercial Banking and Wealth Management - (4) Add: provision for credit losses - Q3 2023","value":40.0,"quarter":3,"year":2023,"value_standardized":-0.4252900786}
+{"text":"Canadian Commercial Banking and Wealth Management - Add: income taxes - Q3 2023","value":169.0,"quarter":3,"year":2023,"value_standardized":-0.3556107806}
+{"text":"Canadian Commercial Banking and Wealth Management - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":676.0,"quarter":3,"year":2023,"value_standardized":-0.0817549348}
+{"text":"Canadian Commercial Banking and Wealth Management - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":676.0,"quarter":3,"year":2023,"value_standardized":-0.0817549348}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income - Q3 2024","value":1422.0,"quarter":3,"year":2024,"value_standardized":0.3211966646}
+{"text":"Canadian Commercial Banking and Wealth Management - Add: provision for credit losses - Q3 2024","value":99.0,"quarter":3,"year":2024,"value_standardized":-0.3934212524}
+{"text":"Canadian Commercial Banking and Wealth Management - Add: income taxes - Q3 2024","value":535.0,"quarter":3,"year":2024,"value_standardized":-0.157916028}
+{"text":"Canadian Commercial Banking and Wealth Management - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2024","value":2056.0,"quarter":3,"year":2024,"value_standardized":0.6636515091}
+{"text":"Canadian Commercial Banking and Wealth Management - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2024","value":2056.0,"quarter":3,"year":2024,"value_standardized":0.6636515091}
+{"text":"Canadian Commercial Banking and Wealth Management - Net income (loss) - Q3 2023","value":1388.0,"quarter":3,"year":2023,"value_standardized":0.3028315783}
+{"text":"Canadian Commercial Banking and Wealth Management - (4) Add: provision for credit losses - Q3 2023","value":132.0,"quarter":3,"year":2023,"value_standardized":-0.3755963156}
+{"text":"Canadian Commercial Banking and Wealth Management - Add: income taxes - Q3 2023","value":505.0,"quarter":3,"year":2023,"value_standardized":-0.1741205159}
+{"text":"Canadian Commercial Banking and Wealth Management - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":2025.0,"quarter":3,"year":2023,"value_standardized":0.6469068716}
+{"text":"Canadian Commercial Banking and Wealth Management - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":2025.0,"quarter":3,"year":2023,"value_standardized":0.6469068716}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income - Q3 2024","value":215.0,"quarter":3,"year":2024,"value_standardized":-0.3307638991}
+{"text":"U.S. Commercial Banking and Wealth Management - Add: provision for credit losses - Q3 2024","value":47.0,"quarter":3,"year":2024,"value_standardized":-0.4215090314}
+{"text":"U.S. Commercial Banking and Wealth Management - Add: income taxes - Q3 2024","value":48.0,"quarter":3,"year":2024,"value_standardized":-0.4209688818}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-provision, pre-tax earnings (1) - Q3 2024","value":310.0,"quarter":3,"year":2024,"value_standardized":-0.2794496874}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-tax impact of items of note (2) - Q3 2024","value":10.0,"quarter":3,"year":2024,"value_standardized":-0.4414945665}
+{"text":"U.S. Commercial Banking and Wealth Management - Adjusted pre-provision, pre-tax earnings (3) - Q3 2024","value":320.0,"quarter":3,"year":2024,"value_standardized":-0.2740481914}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) - Q2 2024","value":93.0,"quarter":2,"year":2024,"value_standardized":-0.3966621499}
+{"text":"U.S. Commercial Banking and Wealth Management - Add: provision for credit losses - Q2 2024","value":186.0,"quarter":2,"year":2024,"value_standardized":-0.3464282374}
+{"text":"U.S. Commercial Banking and Wealth Management - Add: income taxes - Q2 2024","value":-9.0,"quarter":2,"year":2024,"value_standardized":-0.4517574088}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q2 2024","value":270.0,"quarter":2,"year":2024,"value_standardized":-0.3010556713}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-tax impact of items of note (2) - Q2 2024","value":21.0,"quarter":2,"year":2024,"value_standardized":-0.4355529209}
+{"text":"U.S. Commercial Banking and Wealth Management - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q2 2024","value":291.0,"quarter":2,"year":2024,"value_standardized":-0.2897125297}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) - Q3 2023","value":73.0,"quarter":3,"year":2023,"value_standardized":-0.4074651419}
+{"text":"U.S. Commercial Banking and Wealth Management - (4) Add: provision for credit losses - Q3 2023","value":255.0,"quarter":3,"year":2023,"value_standardized":-0.3091579152}
+{"text":"U.S. Commercial Banking and Wealth Management - Add: income taxes - Q3 2023","value":-7.0,"quarter":3,"year":2023,"value_standardized":-0.4506771096}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":321.0,"quarter":3,"year":2023,"value_standardized":-0.2735080418}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-tax impact of items of note (2) - Q3 2023","value":13.0,"quarter":3,"year":2023,"value_standardized":-0.4398741177}
+{"text":"U.S. Commercial Banking and Wealth Management - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":334.0,"quarter":3,"year":2023,"value_standardized":-0.266486097}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income - Q3 2024","value":299.0,"quarter":3,"year":2024,"value_standardized":-0.2853913329}
+{"text":"U.S. Commercial Banking and Wealth Management - Add: provision for credit losses - Q3 2024","value":477.0,"quarter":3,"year":2024,"value_standardized":-0.1892447047}
+{"text":"U.S. Commercial Banking and Wealth Management - Add: income taxes - Q3 2024","value":7.0,"quarter":3,"year":2024,"value_standardized":-0.4431150153}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2024","value":783.0,"quarter":3,"year":2024,"value_standardized":-0.0239589279}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-tax impact of items of note (2) - Q3 2024","value":130.0,"quarter":3,"year":2024,"value_standardized":-0.3766766148}
+{"text":"U.S. Commercial Banking and Wealth Management - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2024","value":913.0,"quarter":3,"year":2024,"value_standardized":0.0462605197}
+{"text":"U.S. Commercial Banking and Wealth Management - Net income (loss) - Q3 2023","value":329.0,"quarter":3,"year":2023,"value_standardized":-0.269186845}
+{"text":"U.S. Commercial Banking and Wealth Management - (4) Add: provision for credit losses - Q3 2023","value":601.0,"quarter":3,"year":2023,"value_standardized":-0.1222661546}
+{"text":"U.S. Commercial Banking and Wealth Management - Add: income taxes - Q3 2023","value":11.0,"quarter":3,"year":2023,"value_standardized":-0.4409544169}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":941.0,"quarter":3,"year":2023,"value_standardized":0.0613847084}
+{"text":"U.S. Commercial Banking and Wealth Management - Pre-tax impact of items of note (2) - Q3 2023","value":47.0,"quarter":3,"year":2023,"value_standardized":-0.4215090314}
+{"text":"U.S. Commercial Banking and Wealth Management - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":988.0,"quarter":3,"year":2023,"value_standardized":0.0867717395}
+{"text":"Capital Markets and Direct Financial Services - Net income - Q3 2024","value":388.0,"quarter":3,"year":2024,"value_standardized":-0.2373180188}
+{"text":"Capital Markets and Direct Financial Services - Add: provision for credit losses - Q3 2024","value":45.0,"quarter":3,"year":2024,"value_standardized":-0.4225893306}
+{"text":"Capital Markets and Direct Financial Services - Add: income taxes - Q3 2024","value":145.0,"quarter":3,"year":2024,"value_standardized":-0.3685743709}
+{"text":"Capital Markets and Direct Financial Services - Pre-provision, pre-tax earnings (1) - Q3 2024","value":578.0,"quarter":3,"year":2024,"value_standardized":-0.1346895953}
+{"text":"Capital Markets and Direct Financial Services - Pre-tax impact of items of note (2) - Q3 2024","value":123.0,"quarter":3,"year":2024,"value_standardized":-0.380457662}
+{"text":"Capital Markets and Direct Financial Services - Adjusted pre-provision, pre-tax earnings (3) - Q3 2024","value":701.0,"quarter":3,"year":2024,"value_standardized":-0.0682511949}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) - Q2 2024","value":560.0,"quarter":2,"year":2024,"value_standardized":-0.1444122881}
+{"text":"Capital Markets and Direct Financial Services - Add: provision for credit losses - Q2 2024","value":16.0,"quarter":2,"year":2024,"value_standardized":-0.4382536689}
+{"text":"Capital Markets and Direct Financial Services - Add: income taxes - Q2 2024","value":206.0,"quarter":2,"year":2024,"value_standardized":-0.3356252455}
+{"text":"Capital Markets and Direct Financial Services - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q2 2024","value":782.0,"quarter":2,"year":2024,"value_standardized":-0.0244990775}
+{"text":"Capital Markets and Direct Financial Services - Pre-tax impact of items of note (2) - Q2 2024","value":-71.0,"quarter":2,"year":2024,"value_standardized":-0.4852466839}
+{"text":"Capital Markets and Direct Financial Services - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q2 2024","value":711.0,"quarter":2,"year":2024,"value_standardized":-0.0628496989}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) - Q3 2023","value":494.0,"quarter":3,"year":2023,"value_standardized":-0.1800621615}
+{"text":"Capital Markets and Direct Financial Services - (4) Add: provision for credit losses - Q3 2023","value":6.0,"quarter":3,"year":2023,"value_standardized":-0.4436551649}
+{"text":"Capital Markets and Direct Financial Services - Add: income taxes - Q3 2023","value":182.0,"quarter":3,"year":2023,"value_standardized":-0.3485888358}
+{"text":"Capital Markets and Direct Financial Services - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":682.0,"quarter":3,"year":2023,"value_standardized":-0.0785140373}
+{"text":"Capital Markets and Direct Financial Services - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":682.0,"quarter":3,"year":2023,"value_standardized":-0.0785140373}
+{"text":"Capital Markets and Direct Financial Services - Net income - Q3 2024","value":1560.0,"quarter":3,"year":2024,"value_standardized":0.395737309}
+{"text":"Capital Markets and Direct Financial Services - Add: provision for credit losses - Q3 2024","value":69.0,"quarter":3,"year":2024,"value_standardized":-0.4096257403}
+{"text":"Capital Markets and Direct Financial Services - Add: income taxes - Q3 2024","value":580.0,"quarter":3,"year":2024,"value_standardized":-0.1336092962}
+{"text":"Capital Markets and Direct Financial Services - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2024","value":2209.0,"quarter":3,"year":2024,"value_standardized":0.7462943975}
+{"text":"Capital Markets and Direct Financial Services - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2024","value":2209.0,"quarter":3,"year":2024,"value_standardized":0.7462943975}
+{"text":"Capital Markets and Direct Financial Services - Net income (loss) - Q3 2023","value":1603.0,"quarter":3,"year":2023,"value_standardized":0.4189637417}
+{"text":"Capital Markets and Direct Financial Services - (4) Add: provision for credit losses - Q3 2023","value":15.0,"quarter":3,"year":2023,"value_standardized":-0.4387938185}
+{"text":"Capital Markets and Direct Financial Services - Add: income taxes - Q3 2023","value":593.0,"quarter":3,"year":2023,"value_standardized":-0.1265873514}
+{"text":"Capital Markets and Direct Financial Services - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":2211.0,"quarter":3,"year":2023,"value_standardized":0.7473746967}
+{"text":"Capital Markets and Direct Financial Services - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":2211.0,"quarter":3,"year":2023,"value_standardized":0.7473746967}
+{"text":"Corporate and Other - Net income - Q3 2024","value":96.0,"quarter":3,"year":2024,"value_standardized":-0.3950417011}
+{"text":"Corporate and Other - Add: provision for credit losses - Q3 2024","value":11.0,"quarter":3,"year":2024,"value_standardized":-0.4409544169}
+{"text":"Corporate and Other - Add: income taxes - Q3 2024","value":30.0,"quarter":3,"year":2024,"value_standardized":-0.4306915746}
+{"text":"Corporate and Other - Pre-provision, pre-tax earnings (1) - Q3 2024","value":137.0,"quarter":3,"year":2024,"value_standardized":-0.3728955677}
+{"text":"Corporate and Other - Pre-tax impact of items of note (2) - Q3 2024","value":-123.0,"quarter":3,"year":2024,"value_standardized":-0.5133344629}
+{"text":"Corporate and Other - Adjusted pre-provision, pre-tax earnings (3) - Q3 2024","value":14.0,"quarter":3,"year":2024,"value_standardized":-0.4393339681}
+{"text":"Corporate and Other - Net income (loss) - Q2 2024","value":-9.0,"quarter":2,"year":2024,"value_standardized":-0.4517574088}
+{"text":"Corporate and Other - Add: provision for credit losses - Q2 2024","value":5.0,"quarter":2,"year":2024,"value_standardized":-0.4441953145}
+{"text":"Corporate and Other - Add: income taxes - Q2 2024","value":-206.0,"quarter":2,"year":2024,"value_standardized":-0.5581668795}
+{"text":"Corporate and Other - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q2 2024","value":-210.0,"quarter":2,"year":2024,"value_standardized":-0.5603274779}
+{"text":"Corporate and Other - Pre-tax impact of items of note (2) - Q2 2024","value":71.0,"quarter":2,"year":2024,"value_standardized":-0.4085454411}
+{"text":"Corporate and Other - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q2 2024","value":-139.0,"quarter":2,"year":2024,"value_standardized":-0.5219768565}
+{"text":"Corporate and Other - Net income (loss) - Q3 2023","value":-101.0,"quarter":3,"year":2023,"value_standardized":-0.5014511718}
+{"text":"Corporate and Other - (4) Add: provision for credit losses - Q3 2023","value":12.0,"quarter":3,"year":2023,"value_standardized":-0.4404142673}
+{"text":"Corporate and Other - Add: income taxes - Q3 2023","value":-156.0,"quarter":3,"year":2023,"value_standardized":-0.5311593996}
+{"text":"Corporate and Other - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":-245.0,"quarter":3,"year":2023,"value_standardized":-0.5792327137}
+{"text":"Corporate and Other - Pre-tax impact of items of note (2) - Q3 2023","value":3.0,"quarter":3,"year":2023,"value_standardized":-0.4452756137}
+{"text":"Corporate and Other - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":-242.0,"quarter":3,"year":2023,"value_standardized":-0.577612265}
+{"text":"Corporate and Other - Net income - Q3 2024","value":64.0,"quarter":3,"year":2024,"value_standardized":-0.4123264883}
+{"text":"Corporate and Other - Add: income taxes - Q3 2024","value":-355.0,"quarter":3,"year":2024,"value_standardized":-0.6386491694}
+{"text":"Corporate and Other - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2024","value":-291.0,"quarter":3,"year":2024,"value_standardized":-0.6040795952}
+{"text":"Corporate and Other - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2024","value":-291.0,"quarter":3,"year":2024,"value_standardized":-0.6040795952}
+{"text":"Corporate and Other - Net income (loss) - Q3 2023","value":-1493.0,"quarter":3,"year":2023,"value_standardized":-1.2533394109}
+{"text":"Corporate and Other - (4) Add: provision for credit losses - Q3 2023","value":17.0,"quarter":3,"year":2023,"value_standardized":-0.4377135193}
+{"text":"Corporate and Other - Add: income taxes - Q3 2023","value":-216.0,"quarter":3,"year":2023,"value_standardized":-0.5635683754}
+{"text":"Corporate and Other - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":-1692.0,"quarter":3,"year":2023,"value_standardized":-1.3608291807}
+{"text":"Corporate and Other - Pre-tax impact of items of note (2) - Q3 2023","value":1064.0,"quarter":3,"year":2023,"value_standardized":0.1278231088}
+{"text":"Corporate and Other - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":-628.0,"quarter":3,"year":2023,"value_standardized":-0.7861100094}
+{"text":"CIBC Total - Net income - Q3 2024","value":1795.0,"quarter":3,"year":2024,"value_standardized":0.5226724643}
+{"text":"CIBC Total - Add: provision for credit losses - Q3 2024","value":483.0,"quarter":3,"year":2024,"value_standardized":-0.1860038071}
+{"text":"CIBC Total - Add: income taxes - Q3 2024","value":644.0,"quarter":3,"year":2024,"value_standardized":-0.0990397219}
+{"text":"CIBC Total - Pre-provision, pre-tax earnings (1) - Q3 2024","value":2922.0,"quarter":3,"year":2024,"value_standardized":1.1314210602}
+{"text":"CIBC Total - Pre-tax impact of items of note (2) - Q3 2024","value":17.0,"quarter":3,"year":2024,"value_standardized":-0.4377135193}
+{"text":"CIBC Total - Adjusted pre-provision, pre-tax earnings (3) - Q3 2024","value":2939.0,"quarter":3,"year":2024,"value_standardized":1.1406036034}
+{"text":"CIBC Total - Net income (loss) - Q2 2024","value":1749.0,"quarter":2,"year":2024,"value_standardized":0.4978255828}
+{"text":"CIBC Total - Add: provision for credit losses - Q2 2024","value":514.0,"quarter":2,"year":2024,"value_standardized":-0.1692591696}
+{"text":"CIBC Total - Add: income taxes - Q2 2024","value":400.0,"quarter":2,"year":2024,"value_standardized":-0.2308362236}
+{"text":"CIBC Total - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q2 2024","value":2663.0,"quarter":2,"year":2024,"value_standardized":0.9915223146}
+{"text":"CIBC Total - Pre-tax impact of items of note (2) - Q2 2024","value":27.0,"quarter":2,"year":2024,"value_standardized":-0.4323120233}
+{"text":"CIBC Total - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q2 2024","value":2690.0,"quarter":2,"year":2024,"value_standardized":1.0061063537}
+{"text":"CIBC Total - Net income (loss) - Q3 2023","value":1432.0,"quarter":3,"year":2023,"value_standardized":0.3265981606}
+{"text":"CIBC Total - (4) Add: provision for credit losses - Q3 2023","value":736.0,"quarter":3,"year":2023,"value_standardized":-0.049345959}
+{"text":"CIBC Total - Add: income taxes - Q3 2023","value":377.0,"quarter":3,"year":2023,"value_standardized":-0.2432596644}
+{"text":"CIBC Total - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":2545.0,"quarter":3,"year":2023,"value_standardized":0.9277846621}
+{"text":"CIBC Total - Pre-tax impact of items of note (2) - Q3 2023","value":57.0,"quarter":3,"year":2023,"value_standardized":-0.4161075354}
+{"text":"CIBC Total - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":2602.0,"quarter":3,"year":2023,"value_standardized":0.9585731891}
+{"text":"CIBC Total - Net income - Q3 2024","value":5272.0,"quarter":3,"year":2024,"value_standardized":2.4007726134}
+{"text":"CIBC Total - Add: provision for credit losses - Q3 2024","value":1582.0,"quarter":3,"year":2024,"value_standardized":0.4076206001}
+{"text":"CIBC Total - Add: income taxes - Q3 2024","value":1487.0,"quarter":3,"year":2024,"value_standardized":0.3563063884}
+{"text":"CIBC Total - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2024","value":8341.0,"quarter":3,"year":2024,"value_standardized":4.0584917268}
+{"text":"CIBC Total - Pre-tax impact of items of note (2) - Q3 2024","value":150.0,"quarter":3,"year":2024,"value_standardized":-0.3658736229}
+{"text":"CIBC Total - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2024","value":8491.0,"quarter":3,"year":2024,"value_standardized":4.1395141664}
+{"text":"CIBC Total - Net income (loss) - Q3 2023","value":3554.0,"quarter":3,"year":2023,"value_standardized":1.4727956056}
+{"text":"CIBC Total - (4) Add: provision for credit losses - Q3 2023","value":1469.0,"quarter":3,"year":2023,"value_standardized":0.3465836957}
+{"text":"CIBC Total - Add: income taxes - Q3 2023","value":1553.0,"quarter":3,"year":2023,"value_standardized":0.3919562618}
+{"text":"CIBC Total - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":6576.0,"quarter":3,"year":2023,"value_standardized":3.105127688}
+{"text":"CIBC Total - Pre-tax impact of items of note (2) - Q3 2023","value":1165.0,"quarter":3,"year":2023,"value_standardized":0.1823782181}
+{"text":"CIBC Total - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":7741.0,"quarter":3,"year":2023,"value_standardized":3.7344019686}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income - Q3 2024","value":158.0,"quarter":3,"year":2024,"value_standardized":-0.3615524261}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Add: provision for credit losses - Q3 2024","value":33.0,"quarter":3,"year":2024,"value_standardized":-0.4290711258}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Add: income taxes - Q3 2024","value":35.0,"quarter":3,"year":2024,"value_standardized":-0.4279908266}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-provision, pre-tax earnings (1) - Q3 2024","value":226.0,"quarter":3,"year":2024,"value_standardized":-0.3248222535}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-tax impact of items of note (2) - Q3 2024","value":8.0,"quarter":3,"year":2024,"value_standardized":-0.4425748657}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Adjusted pre-provision, pre-tax earnings (3) - Q3 2024","value":234.0,"quarter":3,"year":2024,"value_standardized":-0.3205010567}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) - Q2 2024","value":69.0,"quarter":2,"year":2024,"value_standardized":-0.4096257403}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Add: provision for credit losses - Q2 2024","value":136.0,"quarter":2,"year":2024,"value_standardized":-0.3734357173}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Add: income taxes - Q2 2024","value":-6.0,"quarter":2,"year":2024,"value_standardized":-0.45013696}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q2 2024","value":199.0,"quarter":2,"year":2024,"value_standardized":-0.3394062926}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-tax impact of items of note (2) - Q2 2024","value":16.0,"quarter":2,"year":2024,"value_standardized":-0.4382536689}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q2 2024","value":215.0,"quarter":2,"year":2024,"value_standardized":-0.3307638991}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) - Q3 2023","value":55.0,"quarter":3,"year":2023,"value_standardized":-0.4171878346}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - (4) Add: provision for credit losses - Q3 2023","value":191.0,"quarter":3,"year":2023,"value_standardized":-0.3437274894}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Add: income taxes - Q3 2023","value":-5.0,"quarter":3,"year":2023,"value_standardized":-0.4495968104}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":241.0,"quarter":3,"year":2023,"value_standardized":-0.3167200096}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-tax impact of items of note (2) - Q3 2023","value":10.0,"quarter":3,"year":2023,"value_standardized":-0.4414945665}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":251.0,"quarter":3,"year":2023,"value_standardized":-0.3113185136}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income - Q3 2024","value":220.0,"quarter":3,"year":2024,"value_standardized":-0.3280631511}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Add: provision for credit losses - Q3 2024","value":351.0,"quarter":3,"year":2024,"value_standardized":-0.2573035539}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Add: income taxes - Q3 2024","value":5.0,"quarter":3,"year":2024,"value_standardized":-0.4441953145}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2024","value":576.0,"quarter":3,"year":2024,"value_standardized":-0.1357698945}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-tax impact of items of note (2) - Q3 2024","value":97.0,"quarter":3,"year":2024,"value_standardized":-0.3945015515}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2024","value":673.0,"quarter":3,"year":2024,"value_standardized":-0.0833753836}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Net income (loss) - Q3 2023","value":245.0,"quarter":3,"year":2023,"value_standardized":-0.3145594112}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - (4) Add: provision for credit losses - Q3 2023","value":447.0,"quarter":3,"year":2023,"value_standardized":-0.2054491926}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Add: income taxes - Q3 2023","value":8.0,"quarter":3,"year":2023,"value_standardized":-0.4425748657}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-provision (reversal), pre-tax earnings (losses) (1) - Q3 2023","value":700.0,"quarter":3,"year":2023,"value_standardized":-0.0687913445}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Pre-tax impact of items of note (2) - Q3 2023","value":35.0,"quarter":3,"year":2023,"value_standardized":-0.4279908266}
+{"text":"Commercial Banking and Wealth Management (US$ millions) - Adjusted pre-provision (reversal), pre-tax earnings (losses) (3) - Q3 2023","value":735.0,"quarter":3,"year":2023,"value_standardized":-0.0498861086}

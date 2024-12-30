@@ -1,0 +1,10 @@
+Flask==2.2.3
+numpy==1.23.5
+scikit-learn==1.2.2
+tensorflow==2.11.0
+sentence-transformers==2.2.2
+spacy==3.5.0
+werkzeug==2.2.3
+joblib==1.2.0
+xgboost==1.7.5
+duckling==1.8.0

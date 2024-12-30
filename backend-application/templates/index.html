@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CIBC Chatbot</title>
+    <!-- Preload for critical resources -->
+    <link rel="preload" href="/static/css/styles.css" as="style">
+    <link rel="preload" href="/static/js/chatbot.js" as="script">
+
+    <!-- Link for applying resources -->
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <script src="/static/js/chatbot.js" defer></script>
+</head>
+<body>
+    <header>
+        <img src="/static/CIBC_logo.png" alt="CIBC Logo">
+        <h1>CIBC Finacial Insight Assistant</h1>
+    </header>
+    <div class="chat-container">
+        <div class="chat-box" id="chat-box">
+            <div class="message bot-message">Welcome to the CIBC News Chatbot! How can I assist you today?</div>
+        </div>
+        <div class="chat-input-container">
+            <input type="text" id="user-input" placeholder="Type your message here...">
+            <button id="send-button">Send</button>
+        </div>
+    </div>
+    <footer>
+        © 2024. All Rights Reserved.
+    </footer>
+</body>
+</html>
