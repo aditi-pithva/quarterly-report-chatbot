@@ -1,6 +1,6 @@
-# CIBC Quarterly Report Chatbot
+# Quarterly Report Chatbot
 
-Welcome to the **CIBC Quarterly Report Chatbot** repository! This project leverages Natural Language Processing (NLP) to provide users with a conversational interface for accessing insights from CIBC's quarterly financial reports. The chatbot enables users to query specific data, trends, and analyses from these reports quickly and efficiently.
+Welcome to the **Quarterly Report Chatbot** repository! This project leverages Natural Language Processing (NLP) to provide users with a conversational interface for accessing insights from CIBC's quarterly financial reports. The chatbot enables users to query specific data, trends, and analyses from these reports quickly and efficiently.
 
 ---
 
@@ -20,8 +20,8 @@ Welcome to the **CIBC Quarterly Report Chatbot** repository! This project levera
 
 ## Overview
 
-The **CIBC Quarterly Report Chatbot** simplifies financial report analysis by enabling users to:
-- Ask questions about CIBC’s financial data.
+The **Quarterly Report Chatbot** simplifies financial report analysis by enabling users to:
+- Ask questions about financial data.
 - Retrieve insights on key performance indicators (KPIs) such as revenue, net income, and expenses.
 - Compare trends across different quarters or years.
 
@@ -85,8 +85,7 @@ This project was developed as part of a larger initiative to streamline financia
 ## Usage
 
 1. Launch the chatbot in your browser.
-2. Upload CIBC quarterly reports in `.pdf` or `.docx` format.
-3. Interact with the chatbot by asking questions such as:
+2. Interact with the chatbot by asking questions such as:
    - "What was the revenue for Q3 2023?"
    - "Show the trend in net income for the last four quarters."
    - "Compare Q1 and Q2 expenses for 2024."
@@ -109,8 +108,6 @@ The chatbot’s NLP capabilities are powered by a fine-tuned transformer model. 
 ## Acknowledgments
 
 This project was completed with the guidance and support of **Ashish Gupta**, who provided valuable insights and feedback throughout the development process.
-
-Special thanks to CIBC for providing access to the quarterly reports used in testing and validation.
 
 ---
 
