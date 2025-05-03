@@ -41,15 +41,13 @@ def extract_entities(user_input):
                 grain = entity["value"]["grain"]
                 value = entity["value"]["value"]
 
-                # Extract quarter
                 if grain == "quarter" and isinstance(value, str):
                     quarter = int(value[-1])
 
-                # Extract year
                 if grain == "year" and isinstance(value, str):
                     year = int(value[:4])
 
-        # Use regex if Duckling did not extract entities
+        # Using regex if Duckling did not extract entities
         if quarter is None:
             match_quarter = re.search(r'\bQ([1-4])\b', user_input, re.IGNORECASE)
             if match_quarter:
@@ -119,24 +117,6 @@ def chatbot():
     data = request.json
     user_input = data.get("user_input", "")
     print(user_input)
-    if user_input == "What is Reported Net Income for Q3 2024?":
-        response = "The predicted value for Reported Net Income is $1661."
-        return jsonify({"response": response})
-    elif user_input == "Can you please let me know what is Reported Net Income for Q3 2024?":
-        response = "The predicted value for Reported Net Income is $1661."
-        return jsonify({"response": response})
-    elif user_input == "Can you please let me know what is Revenue for Q3 2024?":
-        response = "The predicted value for Revenue is $6553."
-        return jsonify({"response": response})
-    elif user_input == "I want to know the Revenue for Q3 2024?":
-        response = "The predicted value for Revenue is $6553."
-        return jsonify({"response": response})
-    elif user_input == "I want to know the Revenue for Q3 2024?":
-        response = "The predicted value for Revenue is $6553."
-        return jsonify({"response": response})
-    elif user_input == "What is the predicted value for Adjusted Diluted EPS for Q3 2024?":
-        response = "The predicted value for Adjusted Diluted EPS is 1.47."
-        return jsonify({"response": response})
     intent = recognize_intent(user_input)
     if intent == "greet":
         response = "Hello! How can I assist you today?"
