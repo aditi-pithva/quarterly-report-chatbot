@@ -1,10 +1,13 @@
-![Chatbot Screenshot](f91fb59f-6845-4c35-b630-1a76c4c4e4f1.png)
+
 
 # Quarterly Report Chatbot
 
 Welcome to the **Quarterly Report Chatbot** repository! This project uses advanced Natural Language Processing (NLP) techniques to help users interact with **CIBC’s quarterly financial reports** via a conversational interface. Users can query specific KPIs or request **predictions for future quarters**.
 
 ---
+
+![image](https://github.com/user-attachments/assets/8c275e16-6162-4072-af8a-5e2720948e14)
+
 
 ## Table of Contents
 - [Overview](#overview)
