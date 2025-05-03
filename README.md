@@ -1,121 +1,138 @@
+![Chatbot Screenshot](f91fb59f-6845-4c35-b630-1a76c4c4e4f1.png)
+
 # Quarterly Report Chatbot
 
-Welcome to the **Quarterly Report Chatbot** repository! This project leverages Natural Language Processing (NLP) to provide users with a conversational interface for accessing insights from CIBC's quarterly financial reports. The chatbot enables users to query specific data, trends, and analyses from these reports quickly and efficiently.
+Welcome to the **Quarterly Report Chatbot** repository! This project uses advanced Natural Language Processing (NLP) techniques to help users interact with **CIBC’s quarterly financial reports** via a conversational interface. Users can query specific KPIs or request **predictions for future quarters**.
 
 ---
 
 ## Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Setup and Installation](#setup-and-installation)
-5. [Usage](#usage)
-6. [Model Training and Fine-Tuning](#model-training-and-fine-tuning)
-7. [Team Members](#team-members)
-8. [Acknowledgments](#acknowledgments)
-9. [License](#license)
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Model Training](#model-training)
+- [Evaluation](#evaluation)
+- [Team Members](#team-members)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ---
 
 ## Overview
 
-The **Quarterly Report Chatbot** simplifies financial report analysis by enabling users to:
-- Ask questions about financial data.
-- Retrieve insights on key performance indicators (KPIs) such as revenue, net income, and expenses.
-- Compare trends across different quarters or years.
+This chatbot simplifies financial report analysis by allowing users to:
 
-This project was developed as part of a larger initiative to streamline financial data accessibility for non-technical stakeholders.
+- Ask questions about historical financial data
+- Predict future KPIs such as revenue and net income (e.g., Q4 results)
+- Retrieve insights across quarters using natural language
 
 ---
 
 ## Features
 
-- **Conversational Interface**: Users can interact with the chatbot in plain English.
-- **NLP Capabilities**: Employs advanced NLP techniques to extract and summarize information from quarterly reports.
-- **Custom Query Handling**: Processes user queries to provide precise and contextually relevant answers.
-- **Data Visualization**: Displays trends, graphs, and other visual insights where applicable.
+- **Conversational Interface**: Seamless interaction in plain English
+- **Regression-Based Prediction**: Predicts Q4 values using pre-trained regression models
+- **Intent Recognition**: Classifies queries using BERT-based text classification
+- **Quarter & Year Detection**: Extracts temporal context using Duckling and regex
+- **BLEU-Based Evaluation**: Validates response accuracy through BLEU score
+- **Fallback Response Handling**: Uses DialoGPT to respond when no structured intent is found
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
-- **Programming Language**: Python
-- **Natural Language Processing**: Hugging Face Transformers, spaCy
-- **Frameworks**: Flask (Backend), React (Frontend)
-- **Data Storage**: SQLite, Pandas
-- **Visualization**: Matplotlib, Plotly
-- **Deployment**: Docker, AWS
+- **Language & Frameworks**: Python, Flask
+- **NLP Models**: BERT (for intent classification), DialoGPT (for fallback), TF-IDF
+- **Machine Learning**: XGBoost (for KPI prediction), scikit-learn, joblib
+- **Utilities**: Duckling for entity extraction, Hugging Face Transformers
+- **Visualization & Evaluation**: Matplotlib, BLEU score (`evaluate` library)
+- **Storage**: SQLite, Pandas
+- **Frontend**: HTML (via Flask `render_template`)
+- **Deployment (Local)**: Flask development server (no cloud deployment yet)
 
 ---
 
 ## Setup and Installation
 
 ### Prerequisites
-- Python 3.8 or later
-- Node.js and npm
-- Docker (optional, for containerized deployment)
-
+- Python 3.8+
+- Node.js and npm (optional for frontend)
+- Docker (optional)
+  
 ### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aditi-pithva/bank-quarterly-report-chatbot.git
-   cd bank-quarterly-report-chatbot
-   ```
-2. Run news-release.ipynb
-3. Copy all the mdoels generated to cibc-finacial-insight-backend/models
-4. Install backend dependencies:
-   ```bash
-   cd cibc-finacial-insight-backend
-   pip install -r requirements.txt
-   ```
-5. Install frontend dependencies:
-   ```bash
-   cd cibc-finacial-insight-backend
-   npm install
-   ```
-6. Start the backend server:
-   ```bash
-   python app.py
-   ```
-7. Access the chatbot at `http://localhost:8000`.
+```bash
+# Clone the repository
+git clone https://github.com/aditi-pithva/bank-quarterly-report-chatbot.git
+cd bank-quarterly-report-chatbot
+
+# Run model training and save outputs
+# (Inside Jupyter or equivalent)
+Open `model-training.ipynb` and execute all cells
+
+# Copy models to backend
+cp -r models/ cibc-finacial-insight-backend/models
+
+# Install backend dependencies
+cd cibc-finacial-insight-backend
+pip install -r requirements.txt
+
+# Run the Flask backend server
+python app.py
+```
+
+Access the chatbot at: `http://localhost:8080`
 
 ---
 
 ## Usage
 
-1. Launch the chatbot in your browser.
-2. Interact with the chatbot by asking questions such as:
-   - "What was the revenue for Q3 2023?"
-   - "Show the trend in net income for the last four quarters."
-   - "Compare Q1 and Q2 expenses for 2024."
+Ask queries like:
 
-The chatbot will parse the report, extract relevant data, and provide answers in text or graphical form.
+- “What was the revenue for Q3 2023?”
+- “Predict net income for Q4 2024.”
+- “Compare revenue between Q1 and Q2 of 2023.”
 
----
+The chatbot will:
 
-## Model Training and Fine-Tuning
-
-The chatbot’s NLP capabilities are powered by a fine-tuned transformer model. Here are the steps followed for training:
-
-1. **Data Preprocessing**: Extracted text and structured data from quarterly reports.
-2. **Tokenization**: Processed using Hugging Face’s tokenizers.
-3. **Fine-Tuning**: Fine-tuned a pre-trained BERT-based model on a dataset of financial queries and answers.
-4. **Evaluation**: Tested using real-world queries to ensure accuracy and relevance.
+- Detect your intent (predict/query/fallback)
+- Extract quarter/year using Duckling or regex
+- Run prediction or retrieve answers
+- Reply in natural language
 
 ---
 
-## Acknowledgments
+## Model Training
 
-This project was completed with the guidance and support of **Ashish Gupta**, who provided valuable insights and feedback throughout the development process.
+Training steps used in `model-training.ipynb`:
+
+1. **Data Preprocessing**: Parsed and cleaned financial reports from PDFs
+2. **TF-IDF Vectorization**: Applied to convert text queries into numerical features
+3. **Model Training**: Trained XGBoost regression model on historical KPI values
+4. **Intent Recognition**: Used Hugging Face’s BERT model for binary intent classification (`predict_revenue` vs. other)
+5. **Scaler**: MinMaxScaler used for normalizing regression output
+
+---
+
+## Evaluation
+
+- BLEU score evaluation is implemented in `bleu.py`
+- Tests chatbot's actual vs. expected response for multiple queries
+- Example:
+```bash
+python bleu.py
+```
+
+---
+
+## Team Members
+- Aagam Shah 
+- Aditi Pithva
+- Daivik Pelathur
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-For further inquiries or contributions, please feel free to reach out or create an issue in this repository.
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
